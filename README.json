@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T05:41:14Z",
+            "last_commit": "2026-08-17T18:48:55Z",
             "owner": "google-deepmind",
             "repo": "mujoco",
-            "stars": 14572
+            "stars": 14582
           }
         },
         {
@@ -44,10 +44,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-17T06:53:05Z",
+            "last_commit": "2026-08-18T06:27:30Z",
             "owner": "erincatto",
             "repo": "box2d",
-            "stars": 10277
+            "stars": 10280
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-07T09:37:38Z",
             "owner": "NVIDIA-Omniverse",
             "repo": "PhysX",
-            "stars": 4725
+            "stars": 4727
           }
         },
         {
@@ -89,7 +89,7 @@
             "last_commit": "2025-03-28T06:33:07Z",
             "owner": "DanielChappuis",
             "repo": "reactphysics3d",
-            "stars": 1771
+            "stars": 1770
           }
         },
         {
@@ -159,7 +159,7 @@
             "last_commit": "2023-12-04T14:46:54Z",
             "owner": "danfis",
             "repo": "libccd",
-            "stars": 646
+            "stars": 647
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-04-08T05:11:13Z",
             "owner": "BerkeleyAutomation",
             "repo": "python-fcl",
-            "stars": 272
+            "stars": 271
           }
         },
         {
@@ -347,7 +347,7 @@
             "last_commit": "2026-06-15T08:14:53Z",
             "owner": "mlivesu",
             "repo": "cinolib",
-            "stars": 1109
+            "stars": 1110
           }
         },
         {
@@ -420,7 +420,7 @@
             "last_commit": "2026-08-17T08:48:14Z",
             "owner": "CGAL",
             "repo": "cgal",
-            "stars": 6009
+            "stars": 6010
           }
         },
         {
@@ -551,7 +551,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T09:54:55.872Z",
+    "last_updated": "2026-08-18T09:46:19.270Z",
     "original_repository": "jslee02/awesome-collision-detection",
     "original_repository_sha": "60a592a8f78967860dc4830a76bfcf282e44b376",
     "enhanced_repository": "enhansome/enhansome-collision-detection",
