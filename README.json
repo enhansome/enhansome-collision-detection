@@ -1,557 +1,585 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Libraries"
-    },
-    {
-      "description": "Collision detection, distance query, and proximity query libraries. See also Comparisons.",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "🟢 Bullet",
-          "description": "Real-time physics SDK with collision detection for games, robotics, and simulation. ⭐ 14.5k",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-10-22T02:13:14Z",
-            "owner": "bulletphysics",
-            "repo": "bullet3",
-            "stars": 14679
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🟢 MuJoCo",
-          "description": "Physics simulator with contact, collision, and distance queries for robotics and control. ⭐ 13.4k",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-17T18:48:55Z",
-            "owner": "google-deepmind",
-            "repo": "mujoco",
-            "stars": 14582
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🟢 Box2D",
-          "description": "2D physics engine with collision, distance, ray cast, and shape cast queries. ⭐ 9.7k",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-18T06:27:30Z",
-            "owner": "erincatto",
-            "repo": "box2d",
-            "stars": 10280
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🟢 tinyc2 - Single-header 2D collision detection library for primitive shapes. ⭐ 5k",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-05T00:10:44Z",
-            "owner": "RandyGaul",
-            "repo": "cute_headers",
-            "stars": 5043
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🟢 PhysX",
-          "description": "NVIDIA physics SDK with scene queries, contact generation, and collision detection. ⭐ 4.5k",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-07T09:37:38Z",
-            "owner": "NVIDIA-Omniverse",
-            "repo": "PhysX",
-            "stars": 4727
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🟡 ReactPhysics3d",
-          "description": "C++ 3D physics engine with rigid body collision detection. ⭐ 1.7k",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-03-28T06:33:07Z",
-            "owner": "DanielChappuis",
-            "repo": "reactphysics3d",
-            "stars": 1770
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🟢 FCL",
-          "description": "Flexible Collision Library for collision, distance, and continuous collision queries. ⭐ 1.7k",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-06-03T20:02:07Z",
-            "owner": "flexible-collision-library",
-            "repo": "fcl",
-            "stars": 1749
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "💀 qu3e - Lightweight 3D rigid body physics engine with collision detection. ⭐ 991",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C",
-            "last_commit": "2021-05-09T02:49:46Z",
-            "owner": "RandyGaul",
-            "repo": "qu3e",
-            "stars": 995
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🔴 ncollide",
-          "description": "Rust collision detection library for 2D and 3D geometric queries. ⭐ 934",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-01-31T13:02:36Z",
-            "owner": "dimforge",
-            "repo": "ncollide",
-            "stars": 933
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🟢 Parry",
-          "description": "Rust collision detection and geometric query library from Dimforge. ⭐ 819",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-08T18:10:38Z",
-            "owner": "dimforge",
-            "repo": "parry",
-            "stars": 855
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🔴 libccd",
-          "description": "Small C library for collision detection between convex shapes using GJK and EPA. ⭐ 639",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2023-12-04T14:46:54Z",
-            "owner": "danfis",
-            "repo": "libccd",
-            "stars": 647
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🟢 coal (HPP-FCL)",
-          "description": "Collision detection and distance query library derived from HPP-FCL. ⭐ 586",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-01T07:57:40Z",
-            "owner": "coal-library",
-            "repo": "coal",
-            "stars": 638
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🔴 BEPUphysics 1",
-          "description": "Pure C# physics engine with broadphase and narrowphase collision detection. ⭐ 425",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2023-06-06T18:08:15Z",
-            "owner": "bepu",
-            "repo": "bepuphysics1",
-            "stars": 433
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🟢 python-fcl",
-          "description": "Python bindings for FCL collision, distance, and continuous collision queries. ⭐ 269",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Cython",
-            "last_commit": "2026-04-08T05:11:13Z",
-            "owner": "BerkeleyAutomation",
-            "repo": "python-fcl",
-            "stars": 271
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🟢 pytorch_volumetric",
-          "description": "PyTorch utilities for volumetric signed distance fields and differentiable collision queries. ⭐ 246",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-07T02:24:06Z",
-            "owner": "UM-ARM-Lab",
-            "repo": "pytorch_volumetric",
-            "stars": 251
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🟢 OpenGJK",
-          "description": "GJK-based minimum distance library with bindings for multiple languages. ⭐ 197",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-04-30T09:43:29Z",
-            "owner": "MattiaMontanari",
-            "repo": "openGJK",
-            "stars": 206
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🟢 Tight-Inclusion",
-          "description": "Conservative continuous collision detection library with minimum separation support. ⭐ 157",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-06T15:36:01Z",
-            "owner": "Continuous-Collision-Detection",
-            "repo": "Tight-Inclusion",
-            "stars": 160
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🔴 collision-rs - Rust collision detection library with broadphase and narrowphase queries. ⭐ 130",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-06-09T18:18:20Z",
-            "owner": "rustgd",
-            "repo": "collision-rs",
-            "stars": 130
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🟢 Kraft",
-          "description": "Object Pascal physics engine with discrete and optional continuous collision detection. ⭐ 126",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Pascal",
-            "last_commit": "2026-08-09T05:39:02Z",
-            "owner": "BeRo1985",
-            "repo": "kraft",
-            "stars": 129
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🔴 CCD-Wrapper",
-          "description": "Wrapper and benchmark for continuous collision detection algorithms. ⭐ 60",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2023-03-25T16:21:34Z",
-            "owner": "Continuous-Collision-Detection",
-            "repo": "CCD-Wrapper",
-            "stars": 61
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🔴 JitterPhysics",
-          "description": "C# rigid body physics engine with collision detection support. ⭐ 47",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-08-08T11:59:21Z",
-            "owner": "mattleibow",
-            "repo": "jitterphysics",
-            "stars": 47
-          }
-        }
-      ],
-      "title": "Active"
-    },
-    {
-      "description": "Geometry processing libraries useful for collision-ready meshes and convex approximations.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "🟢 libigl",
-          "description": "A simple C++ geometry processing library. ⭐ 5k",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-04T03:16:48Z",
-            "owner": "libigl",
-            "repo": "libigl",
-            "stars": 5068
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🟢 CoACD",
-          "description": "Approximate convex decomposition for collision-aware mesh approximation. ⭐ 1k",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-14T04:54:42Z",
-            "owner": "SarahWeiii",
-            "repo": "CoACD",
-            "stars": 1130
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🟢 cinolib - A generic programming header only C++ library for processing polygonal and polyhedral meshes. ⭐ 1.1k",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-06-15T08:14:53Z",
-            "owner": "mlivesu",
-            "repo": "cinolib",
-            "stars": 1110
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🔴 bounding-mesh",
-          "description": "Implementation of the bounding mesh and bounding convex decomposition algorithms for single-sided mesh approximation. ⭐ 349",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2021-09-02T06:14:46Z",
-            "owner": "gaschler",
-            "repo": "bounding-mesh",
-            "stars": 349
-          }
-        }
-      ],
-      "title": "Mesh Processing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Papers"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "GJK++: Leveraging Acceleration Methods for Faster Collision Detection (2023), Montaut et al. [pdf",
-          "description": ", code, benchmarks]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-01T07:57:40Z",
-            "owner": "coal-library",
-            "repo": "coal",
-            "stars": 638
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Collision Detection Accelerated: An Optimization Perspective (2022), Montaut et al. [pdf",
-          "description": ", code, benchmarks]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-01T07:57:40Z",
-            "owner": "coal-library",
-            "repo": "coal",
-            "stars": 638
-          }
-        }
-      ],
-      "title": "Collision Detection and Distance Computation"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Faster Triangle-Triangle Intersection Tests (2006), O. Devillers et al. [pdf",
-          "description": ", code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-17T08:48:14Z",
-            "owner": "CGAL",
-            "repo": "cgal",
-            "stars": 6010
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "A Fast Triangle-Triangle Intersecion Test (1997), T. Muller. [pdf",
-          "description": ", code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "MATLAB",
-            "last_commit": "2023-08-28T20:54:10Z",
-            "owner": "erich666",
-            "repo": "jgt-code",
-            "stars": 496
-          }
-        }
-      ],
-      "title": "Triangle-triangle Test"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Fast Approximate Nearest Neighbors with Automatic Algorithm Configuration (2009), M. Muja and D. Lowe. [pdf",
-          "description": ", code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-07-29T19:01:47Z",
-            "owner": "flann-lib",
-            "repo": "flann",
-            "stars": 2373
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Faster cover tree (2015), M. Izbicki et al. [pdf",
-          "description": ", code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2020-06-16T15:01:41Z",
-            "owner": "manzilzaheer",
-            "repo": "CoverTree",
-            "stars": 95
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cover Tree for Nearest Neighbor (2006), A. Beygelzimer et al. [pdf",
-          "description": ", web, code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2018-02-13T09:15:12Z",
-            "owner": "DNCrane",
-            "repo": "Cover-Tree",
-            "stars": 64
-          }
-        }
-      ],
-      "title": "Nearest Neighbor"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Articles"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Benchmark of various spatial data structures for collision detection",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C++",
-            "last_commit": "2018-03-06T02:37:34Z",
-            "owner": "ttvd",
-            "repo": "spatial-collision-datastructures",
-            "stars": 130
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "Bounding volume hierarchy",
-          "description": null,
           "children": [
             {
               "node_type": "item",
-              "title": "Bounding Volume Hierarchy Optimization through Agglomerative Treelet Restructuring",
-              "description": "(paper, code) by Leonardo R. Domingues and Helio Pedrini.",
+              "title": "🟢 Bullet",
+              "description": "Real-time physics SDK with collision detection for games, robotics, and simulation. ⭐ 14.5k",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1605598,
                 "language": "C++",
-                "last_commit": "2015-07-25T21:01:36Z",
-                "owner": "leonardo-domingues",
-                "repo": "atrbvh",
-                "stars": 56
+                "last_commit": "2025-10-22T02:13:14Z",
+                "owner": "bulletphysics",
+                "repo": "bullet3",
+                "stars": 14683
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🟢 MuJoCo",
+              "description": "Physics simulator with contact, collision, and distance queries for robotics and control. ⭐ 13.4k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 400501136,
+                "language": "C++",
+                "last_commit": "2026-08-19T00:09:36Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco",
+                "stars": 14595
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🟢 Box2D",
+              "description": "2D physics engine with collision, distance, ray cast, and shape cast queries. ⭐ 9.7k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32222044,
+                "language": "C",
+                "last_commit": "2026-08-18T19:31:23Z",
+                "owner": "erincatto",
+                "repo": "box2d",
+                "stars": 10284
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🟢 tinyc2 - Single-header 2D collision detection library for primitive shapes. ⭐ 5k",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60436054,
+                "language": "C",
+                "last_commit": "2026-08-05T00:10:44Z",
+                "owner": "RandyGaul",
+                "repo": "cute_headers",
+                "stars": 5045
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🟢 PhysX",
+              "description": "NVIDIA physics SDK with scene queries, contact generation, and collision detection. ⭐ 4.5k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 545381143,
+                "language": "C++",
+                "last_commit": "2026-08-07T09:37:38Z",
+                "owner": "NVIDIA-Omniverse",
+                "repo": "PhysX",
+                "stars": 4729
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🟡 ReactPhysics3d",
+              "description": "C++ 3D physics engine with rigid body collision detection. ⭐ 1.7k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10272113,
+                "language": "C++",
+                "last_commit": "2025-03-28T06:33:07Z",
+                "owner": "DanielChappuis",
+                "repo": "reactphysics3d",
+                "stars": 1771
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🟢 FCL",
+              "description": "Flexible Collision Library for collision, distance, and continuous collision queries. ⭐ 1.7k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5875030,
+                "language": "C++",
+                "last_commit": "2026-06-03T20:02:07Z",
+                "owner": "flexible-collision-library",
+                "repo": "fcl",
+                "stars": 1749
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "💀 qu3e - Lightweight 3D rigid body physics engine with collision detection. ⭐ 991",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 25142949,
+                "language": "C",
+                "last_commit": "2021-05-09T02:49:46Z",
+                "owner": "RandyGaul",
+                "repo": "qu3e",
+                "stars": 995
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🔴 ncollide",
+              "description": "Rust collision detection library for 2D and 3D geometric queries. ⭐ 934",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10066282,
+                "language": "Rust",
+                "last_commit": "2023-01-31T13:02:36Z",
+                "owner": "dimforge",
+                "repo": "ncollide",
+                "stars": 933
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🟢 Parry",
+              "description": "Rust collision detection and geometric query library from Dimforge. ⭐ 819",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 322360701,
+                "language": "Rust",
+                "last_commit": "2026-08-08T18:10:38Z",
+                "owner": "dimforge",
+                "repo": "parry",
+                "stars": 855
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🔴 libccd",
+              "description": "Small C library for collision detection between convex shapes using GJK and EPA. ⭐ 639",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5603558,
+                "language": "C",
+                "last_commit": "2023-12-04T14:46:54Z",
+                "owner": "danfis",
+                "repo": "libccd",
+                "stars": 647
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🟢 coal (HPP-FCL)",
+              "description": "Collision detection and distance query library derived from HPP-FCL. ⭐ 586",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27596602,
+                "language": "C++",
+                "last_commit": "2026-08-01T07:57:40Z",
+                "owner": "coal-library",
+                "repo": "coal",
+                "stars": 638
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🔴 BEPUphysics 1",
+              "description": "Pure C# physics engine with broadphase and narrowphase collision detection. ⭐ 425",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 76690841,
+                "language": "C#",
+                "last_commit": "2023-06-06T18:08:15Z",
+                "owner": "bepu",
+                "repo": "bepuphysics1",
+                "stars": 433
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🟢 python-fcl",
+              "description": "Python bindings for FCL collision, distance, and continuous collision queries. ⭐ 269",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 105061794,
+                "language": "Cython",
+                "last_commit": "2026-04-08T05:11:13Z",
+                "owner": "BerkeleyAutomation",
+                "repo": "python-fcl",
+                "stars": 271
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🟢 pytorch_volumetric",
+              "description": "PyTorch utilities for volumetric signed distance fields and differentiable collision queries. ⭐ 246",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 604436894,
+                "language": "Python",
+                "last_commit": "2026-07-07T02:24:06Z",
+                "owner": "UM-ARM-Lab",
+                "repo": "pytorch_volumetric",
+                "stars": 251
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🟢 OpenGJK",
+              "description": "GJK-based minimum distance library with bindings for multiple languages. ⭐ 197",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 146979600,
+                "language": "C++",
+                "last_commit": "2026-04-30T09:43:29Z",
+                "owner": "MattiaMontanari",
+                "repo": "openGJK",
+                "stars": 206
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🟢 Tight-Inclusion",
+              "description": "Conservative continuous collision detection library with minimum separation support. ⭐ 157",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 297984949,
+                "language": "C++",
+                "last_commit": "2026-08-06T15:36:01Z",
+                "owner": "Continuous-Collision-Detection",
+                "repo": "Tight-Inclusion",
+                "stars": 160
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🔴 collision-rs - Rust collision detection library with broadphase and narrowphase queries. ⭐ 130",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84004978,
+                "language": "Rust",
+                "last_commit": "2024-06-09T18:18:20Z",
+                "owner": "rustgd",
+                "repo": "collision-rs",
+                "stars": 130
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🟢 Kraft",
+              "description": "Object Pascal physics engine with discrete and optional continuous collision detection. ⭐ 126",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37377686,
+                "language": "Pascal",
+                "last_commit": "2026-08-09T05:39:02Z",
+                "owner": "BeRo1985",
+                "repo": "kraft",
+                "stars": 130
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🔴 CCD-Wrapper",
+              "description": "Wrapper and benchmark for continuous collision detection algorithms. ⭐ 60",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 238758053,
+                "language": "C++",
+                "last_commit": "2023-03-25T16:21:34Z",
+                "owner": "Continuous-Collision-Detection",
+                "repo": "CCD-Wrapper",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🔴 JitterPhysics",
+              "description": "C# rigid body physics engine with collision detection support. ⭐ 47",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 393951343,
+                "language": null,
+                "last_commit": "2021-08-08T11:59:21Z",
+                "owner": "mattleibow",
+                "repo": "jitterphysics",
+                "stars": 47
               }
             }
-          ]
+          ],
+          "description": "Collision detection, distance query, and proximity query libraries. See also Comparisons.\nSome libraries, such as ODE and Bullet, are physics engines that can also be used as collision detection libraries.",
+          "node_type": "group",
+          "title": "Active"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "🟢 libigl",
+              "description": "A simple C++ geometry processing library. ⭐ 5k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17055264,
+                "language": "C++",
+                "last_commit": "2026-08-18T20:38:14Z",
+                "owner": "libigl",
+                "repo": "libigl",
+                "stars": 5071
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🟢 CoACD",
+              "description": "Approximate convex decomposition for collision-aware mesh approximation. ⭐ 1k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 488313408,
+                "language": "C++",
+                "last_commit": "2026-08-19T04:28:56Z",
+                "owner": "SarahWeiii",
+                "repo": "CoACD",
+                "stars": 1131
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🟢 cinolib - A generic programming header only C++ library for processing polygonal and polyhedral meshes. ⭐ 1.1k",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100456759,
+                "language": "C++",
+                "last_commit": "2026-08-19T07:25:43Z",
+                "owner": "mlivesu",
+                "repo": "cinolib",
+                "stars": 1109
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🔴 bounding-mesh",
+              "description": "Implementation of the bounding mesh and bounding convex decomposition algorithms for single-sided mesh approximation. ⭐ 349",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14424189,
+                "language": "C++",
+                "last_commit": "2021-09-02T06:14:46Z",
+                "owner": "gaschler",
+                "repo": "bounding-mesh",
+                "stars": 349
+              }
+            }
+          ],
+          "description": "Geometry processing libraries useful for collision-ready meshes and convex approximations.",
+          "node_type": "group",
+          "title": "Mesh Processing"
         }
       ],
-      "title": "Space Partitioning"
+      "title": "Libraries"
     },
     {
-      "description": "Contributions are very welcome! Please read the contribution guidelines first. Also, please feel free to report any error.",
-      "items": [],
-      "title": "Contributing"
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GJK++: Leveraging Acceleration Methods for Faster Collision Detection (2023), Montaut et al. [pdf",
+              "description": ", code, benchmarks]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27596602,
+                "language": "C++",
+                "last_commit": "2026-08-01T07:57:40Z",
+                "owner": "coal-library",
+                "repo": "coal",
+                "stars": 638
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Collision Detection Accelerated: An Optimization Perspective (2022), Montaut et al. [pdf",
+              "description": ", code, benchmarks]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27596602,
+                "language": "C++",
+                "last_commit": "2026-08-01T07:57:40Z",
+                "owner": "coal-library",
+                "repo": "coal",
+                "stars": 638
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Collision Detection and Distance Computation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Faster Triangle-Triangle Intersection Tests (2006), O. Devillers et al. [pdf",
+              "description": ", code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24677392,
+                "language": "C++",
+                "last_commit": "2026-08-17T08:48:14Z",
+                "owner": "CGAL",
+                "repo": "cgal",
+                "stars": 6010
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A Fast Triangle-Triangle Intersecion Test (1997), T. Muller. [pdf",
+              "description": ", code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43819402,
+                "language": "MATLAB",
+                "last_commit": "2023-08-28T20:54:10Z",
+                "owner": "erich666",
+                "repo": "jgt-code",
+                "stars": 496
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Triangle-triangle Test"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Fast Approximate Nearest Neighbors with Automatic Algorithm Configuration (2009), M. Muja and D. Lowe. [pdf",
+              "description": ", code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1538047,
+                "language": "C++",
+                "last_commit": "2024-07-29T19:01:47Z",
+                "owner": "flann-lib",
+                "repo": "flann",
+                "stars": 2373
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Faster cover tree (2015), M. Izbicki et al. [pdf",
+              "description": ", code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55930172,
+                "language": "C++",
+                "last_commit": "2020-06-16T15:01:41Z",
+                "owner": "manzilzaheer",
+                "repo": "CoverTree",
+                "stars": 95
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cover Tree for Nearest Neighbor (2006), A. Beygelzimer et al. [pdf",
+              "description": ", web, code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1820229,
+                "language": "C++",
+                "last_commit": "2018-02-13T09:15:12Z",
+                "owner": "DNCrane",
+                "repo": "Cover-Tree",
+                "stars": 64
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Nearest Neighbor"
+        }
+      ],
+      "title": "Papers"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Star History"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Benchmark of various spatial data structures for collision detection",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 1059847,
+                "language": "C++",
+                "last_commit": "2018-03-06T02:37:34Z",
+                "owner": "ttvd",
+                "repo": "spatial-collision-datastructures",
+                "stars": 130
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "Bounding volume hierarchy",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Bounding Volume Hierarchy Optimization through Agglomerative Treelet Restructuring",
+                  "description": "(paper, code) by Leonardo R. Domingues and Helio Pedrini.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 36768231,
+                    "language": "C++",
+                    "last_commit": "2015-07-25T21:01:36Z",
+                    "owner": "leonardo-domingues",
+                    "repo": "atrbvh",
+                    "stars": 56
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Space Partitioning"
+        }
+      ],
+      "title": "Articles"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:46:19.270Z",
+    "last_updated": "2026-08-19T09:46:55.204Z",
     "original_repository": "jslee02/awesome-collision-detection",
     "original_repository_sha": "60a592a8f78967860dc4830a76bfcf282e44b376",
     "enhanced_repository": "enhansome/enhansome-collision-detection",
