@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-18T19:31:23Z",
                 "owner": "erincatto",
                 "repo": "box2d",
-                "stars": 10284
+                "stars": 10285
               }
             },
             {
@@ -449,7 +449,7 @@
                 "last_commit": "2026-08-17T08:48:14Z",
                 "owner": "CGAL",
                 "repo": "cgal",
-                "stars": 6010
+                "stars": 6011
               }
             },
             {
@@ -579,8 +579,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:46:55.204Z",
+    "last_updated": "2026-08-19T12:24:46.707Z",
     "original_repository": "jslee02/awesome-collision-detection",
+    "original_repository_id": 59176406,
     "original_repository_sha": "60a592a8f78967860dc4830a76bfcf282e44b376",
     "enhanced_repository": "enhansome/enhansome-collision-detection",
     "enhanced_repository_description": null,
