@@ -17,7 +17,7 @@
                 "last_commit": "2025-10-22T02:13:14Z",
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14684
+                "stars": 14685
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 400501136,
                 "language": "C++",
-                "last_commit": "2026-08-21T07:06:45Z",
+                "last_commit": "2026-08-22T09:19:41Z",
                 "owner": "google-deepmind",
                 "repo": "mujoco",
-                "stars": 14624
+                "stars": 14629
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-21T04:31:15Z",
                 "owner": "erincatto",
                 "repo": "box2d",
-                "stars": 10289
+                "stars": 10291
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2026-08-07T09:37:38Z",
                 "owner": "NVIDIA-Omniverse",
                 "repo": "PhysX",
-                "stars": 4730
+                "stars": 4731
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2025-03-28T06:33:07Z",
                 "owner": "DanielChappuis",
                 "repo": "reactphysics3d",
-                "stars": 1772
+                "stars": 1771
               }
             },
             {
@@ -152,7 +152,7 @@
                 "last_commit": "2026-08-08T18:10:38Z",
                 "owner": "dimforge",
                 "repo": "parry",
-                "stars": 856
+                "stars": 857
               }
             },
             {
@@ -182,7 +182,7 @@
                 "last_commit": "2026-08-01T07:57:40Z",
                 "owner": "coal-library",
                 "repo": "coal",
-                "stars": 639
+                "stars": 640
               }
             },
             {
@@ -336,7 +336,7 @@
                 "archived": false,
                 "id": 17055264,
                 "language": "C++",
-                "last_commit": "2026-08-20T19:35:23Z",
+                "last_commit": "2026-08-22T01:50:20Z",
                 "owner": "libigl",
                 "repo": "libigl",
                 "stars": 5073
@@ -369,7 +369,7 @@
                 "last_commit": "2026-08-19T07:25:43Z",
                 "owner": "mlivesu",
                 "repo": "cinolib",
-                "stars": 1107
+                "stars": 1106
               }
             },
             {
@@ -412,7 +412,7 @@
                 "last_commit": "2026-08-01T07:57:40Z",
                 "owner": "coal-library",
                 "repo": "coal",
-                "stars": 639
+                "stars": 640
               }
             },
             {
@@ -427,7 +427,7 @@
                 "last_commit": "2026-08-01T07:57:40Z",
                 "owner": "coal-library",
                 "repo": "coal",
-                "stars": 639
+                "stars": 640
               }
             }
           ],
@@ -449,7 +449,7 @@
                 "last_commit": "2026-08-21T07:57:26Z",
                 "owner": "CGAL",
                 "repo": "cgal",
-                "stars": 6015
+                "stars": 6016
               }
             },
             {
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T09:50:26.297Z",
+    "last_updated": "2026-08-22T09:38:01.235Z",
     "original_repository": "jslee02/awesome-collision-detection",
     "original_repository_id": 59176406,
     "original_repository_sha": "60a592a8f78967860dc4830a76bfcf282e44b376",
