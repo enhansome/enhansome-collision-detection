@@ -28,10 +28,10 @@ A curated list of collision detection libraries, algorithms, papers, and related
 *Collision detection, distance query, and proximity query libraries. See also [Comparisons](COMPARISONS.md).*
 
 * 🟢 [Bullet](http://bulletphysics.org) - Real-time physics SDK with collision detection for games, robotics, and simulation. [⭐ 14.5k](https://github.com/bulletphysics/bullet3) ⭐ 14,692 | 🐛 424 | 🌐 C++ | 📅 2025-10-22
-* 🟢 [MuJoCo](https://mujoco.org/) - Physics simulator with contact, collision, and distance queries for robotics and control. [⭐ 13.4k](https://github.com/google-deepmind/mujoco) ⭐ 14,647 | 🐛 370 | 🌐 C++ | 📅 2026-08-24
-* 🟢 [Box2D](https://box2d.org) - 2D physics engine with collision, distance, ray cast, and shape cast queries. [⭐ 9.7k](https://github.com/erincatto/box2d) ⭐ 10,296 | 🐛 30 | 🌐 C | 📅 2026-08-24
+* 🟢 [MuJoCo](https://mujoco.org/) - Physics simulator with contact, collision, and distance queries for robotics and control. [⭐ 13.4k](https://github.com/google-deepmind/mujoco) ⭐ 14,647 | 🐛 373 | 🌐 C++ | 📅 2026-08-24
+* 🟢 [Box2D](https://box2d.org) - 2D physics engine with collision, distance, ray cast, and shape cast queries. [⭐ 9.7k](https://github.com/erincatto/box2d) ⭐ 10,297 | 🐛 30 | 🌐 C | 📅 2026-08-24
 * 🟢 tinyc2 - Single-header 2D collision detection library for primitive shapes. [⭐ 5k](https://github.com/RandyGaul/tinyheaders) ⭐ 5,049 | 🐛 25 | 🌐 C | 📅 2026-08-05
-* 🟢 [PhysX](https://nvidia-omniverse.github.io/PhysX/) - NVIDIA physics SDK with scene queries, contact generation, and collision detection. [⭐ 4.5k](https://github.com/NVIDIA-Omniverse/PhysX) ⭐ 4,734 | 🐛 73 | 🌐 C++ | 📅 2026-08-07
+* 🟢 [PhysX](https://nvidia-omniverse.github.io/PhysX/) - NVIDIA physics SDK with scene queries, contact generation, and collision detection. [⭐ 4.5k](https://github.com/NVIDIA-Omniverse/PhysX) ⭐ 4,733 | 🐛 73 | 🌐 C++ | 📅 2026-08-07
 * 🟡 [ReactPhysics3d](http://www.reactphysics3d.com/) - C++ 3D physics engine with rigid body collision detection. [⭐ 1.7k](https://github.com/DanielChappuis/reactphysics3d) ⭐ 1,771 | 🐛 91 | 🌐 C++ | 📅 2025-03-28
 * 🟢 [FCL](https://github.com/flexible-collision-library/fcl) ⭐ 1,750 | 🐛 244 | 🌐 C++ | 📅 2026-06-03 - Flexible Collision Library for collision, distance, and continuous collision queries. [⭐ 1.7k](https://github.com/flexible-collision-library/fcl) ⭐ 1,750 | 🐛 244 | 🌐 C++ | 📅 2026-06-03
 * 💀 qu3e - Lightweight 3D rigid body physics engine with collision detection. [⭐ 991](https://github.com/RandyGaul/qu3e) ⚠️ Archived
@@ -54,10 +54,10 @@ A curated list of collision detection libraries, algorithms, papers, and related
 
 ### [Inactive](#contents)
 
+* 🔴 OZCollide - Legacy collision detection library. [⭐ 4](https://github.com/jslee02/OZCollide) ⭐ 4 | 🐛 0 | 🌐 C++ | 📅 2017-04-01
 * [ColDet](https://sourceforge.net/projects/coldet/) - 3D Collision Detection.
 * [GIMPACT](http://gimpact.sourceforge.net/) - Tools for geometry processing and collision detection.
 * [OPCODE](http://www.codercorner.com/Opcode.htm) - Optimized Collision Detection.
-* 🔴 OZCollide - Legacy collision detection library. [⭐ 4](https://github.com/jslee02/OZCollide) ⭐ 4 | 🐛 0 | 🌐 C++ | 📅 2017-04-01
 * [SOLID](http://solid.sourceforge.net/) - Collision detection of 3D objects undergoing rigid motion and deformation.
 
 ### [Mesh Processing](#contents)
@@ -83,7 +83,7 @@ A curated list of collision detection libraries, algorithms, papers, and related
 
 #### Triangle-triangle Test
 
-* Faster Triangle-Triangle Intersection Tests (2006), O. Devillers et al. \[[pdf](https://hal.inria.fr/inria-00072100/document), [code](https://github.com/CGAL/cgal/blob/076c982dbf37cc244206fd7962e73360fb17ea47/Intersections_3/include/CGAL/Triangle_3_Triangle_3_do_intersect.h) ⭐ 6,022 | 🐛 677 | 🌐 C++ | 📅 2026-08-22]
+* Faster Triangle-Triangle Intersection Tests (2006), O. Devillers et al. \[[pdf](https://hal.inria.fr/inria-00072100/document), [code](https://github.com/CGAL/cgal/blob/076c982dbf37cc244206fd7962e73360fb17ea47/Intersections_3/include/CGAL/Triangle_3_Triangle_3_do_intersect.h) ⭐ 6,021 | 🐛 676 | 🌐 C++ | 📅 2026-08-24]
 * A Fast Triangle-Triangle Intersecion Test (1997), T. Muller. \[[pdf](http://web.stanford.edu/class/cs277/resources/papers/Moller1997b.pdf), [code](https://github.com/erich666/jgt-code/blob/master/Volume_02/Number_2/Moller1997b/tritri_isectline.c) ⭐ 495 | 🐛 0 | 🌐 MATLAB | 📅 2023-08-28]
 * A faster triangle-to-triangle intersection test algorithm (2013), L.-Y. Wei.
 * Efficient triangle-triangle intersection test for OBB-based collision detection (2009), J.-W. Chang et al. \[[pdf](http://ldc.usb.ve/~vtheok/cursos/ci6322/escogidos/Efficient%20triangle%E2%80%93triangleintersectiontestforOBB.pdf)]
@@ -92,8 +92,8 @@ A curated list of collision detection libraries, algorithms, papers, and related
 
 #### Mesh Collision
 
-* Robust contact generation for robot simulation with unstructured meshes (2013), K. Hauser. \[[pdf](https://motion.cs.illinois.edu/papers/ISRR2013-RobustContact.pdf), [web](http://motion.cs.illinois.edu/simulation/index.html)]
 * Approximate Convex Decomposition for 3D Meshes with Collision-Aware Concavity and Tree Search (2022), X. Wei et al. \[[pdf](https://arxiv.org/pdf/2205.02961), [project](https://colin97.github.io/CoACD/), [code](https://github.com/SarahWeiii/CoACD) ⭐ 1,133 | 🐛 30 | 🌐 C++ | 📅 2026-08-19, [video](https://www.youtube.com/watch?v=r12O0z0723s)]
+* Robust contact generation for robot simulation with unstructured meshes (2013), K. Hauser. \[[pdf](https://motion.cs.illinois.edu/papers/ISRR2013-RobustContact.pdf), [web](http://motion.cs.illinois.edu/simulation/index.html)]
 
 #### Penetration Depth Computation
 
@@ -101,9 +101,9 @@ A curated list of collision detection libraries, algorithms, papers, and related
 
 #### Proximity Query / Signed Distance Field
 
+* Voxblox: Building 3d signed distance fields for planning (2016), H Oleynikova et al. \[[pdf](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/128028/eth-50485-01.pdf), [code](https://github.com/ethz-asl/voxblox) ⭐ 1,666 | 🐛 77 | 🌐 C++ | 📅 2024-07-01]
 * Local Optimization for Robust Signed Distance Field Collision (2020), [M. Macklin](http://blog.mmacklin.com/) et al. \[[pdf](https://mmacklin.com/sdfcontact.pdf), [slides](https://mmacklin.com/sdfcontact_slides.pdf), [video](https://youtu.be/icU6Bm-HZ-E)]
 * Hierarchical hp-Adaptive Signed Distance Fields (2016), D. Koschier et al. \[[pdf](https://pdfs.semanticscholar.org/0dac/60f8ebf218a5510799cab4c74c5bb1f276e9.pdf), [video](https://youtu.be/x_Iq2yM4FcA)]
-* Voxblox: Building 3d signed distance fields for planning (2016), H Oleynikova et al. \[[pdf](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/128028/eth-50485-01.pdf), [code](https://github.com/ethz-asl/voxblox) ⭐ 1,666 | 🐛 77 | 🌐 C++ | 📅 2024-07-01]
 * Signed distance fields for polygon soup meshes (2014), H. Xu and Jernej Barbic. \[[pdf](https://pdfs.semanticscholar.org/6247/71efeaff92c9826b9fa176e8c76a2def1d9f.pdf)]
 * Fast Proximity Queries with Swept Sphere Volumes (1999), E. Larsen et al. \[[pdf](https://www.researchgate.net/profile/Dinesh_Manocha/publication/2318075_Fast_Proximity_Queries_with_Swept_Sphere_Volumes/links/54ecdc250cf2465f53305253/Fast-Proximity-Queries-with-Swept-Sphere-Volumes.pdf), [web](http://gamma.cs.unc.edu/SSV/)]
 
@@ -151,9 +151,9 @@ A curated list of collision detection libraries, algorithms, papers, and related
 
 #### Narrow-phase
 
+* [Collision Detection](http://www.jeffreythompson.org/collision-detection/) ([code](https://github.com/jeffThompson/CollisionDetection) ⭐ 453 | 🐛 21 | 🌐 JavaScript | 📅 2023-01-10) by Jeff Thompson - This book explains the algorithms behind those collisions using basic shapes like circles, rectangles, and lines so you can implement them into your own projects.
 * [Algorithm table for narrowphase algorithms](http://www.realtimerendering.com/intersections.html)
 * [3D Collision detection](http://www.miguelcasillas.com/?mcportfolio=collision-detection-c) by [Miguel Casillas](http://www.miguelcasillas.com/?page_id=451)
-* [Collision Detection](http://www.jeffreythompson.org/collision-detection/) ([code](https://github.com/jeffThompson/CollisionDetection) ⭐ 453 | 🐛 21 | 🌐 JavaScript | 📅 2023-01-10) by Jeff Thompson - This book explains the algorithms behind those collisions using basic shapes like circles, rectangles, and lines so you can implement them into your own projects.
 * [Note: The Gibert-Jonson-Keerthi algorithm](http://realtimecollisiondetection.net/pubs/SIGGRAPH04_Ericson_GJK_notes.pdf) by Christer Ericson
 
 #### Space Partitioning
