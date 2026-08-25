@@ -17,7 +17,7 @@
                 "last_commit": "2025-10-22T02:13:14Z",
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14692
+                "stars": 14693
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 400501136,
                 "language": "C++",
-                "last_commit": "2026-08-24T13:20:19Z",
+                "last_commit": "2026-08-25T00:03:38Z",
                 "owner": "google-deepmind",
                 "repo": "mujoco",
-                "stars": 14647
+                "stars": 14657
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-24T04:56:46Z",
                 "owner": "erincatto",
                 "repo": "box2d",
-                "stars": 10297
+                "stars": 10300
               }
             },
             {
@@ -107,7 +107,7 @@
                 "last_commit": "2026-06-03T20:02:07Z",
                 "owner": "flexible-collision-library",
                 "repo": "fcl",
-                "stars": 1750
+                "stars": 1751
               }
             },
             {
@@ -361,7 +361,7 @@
                 "last_commit": "2026-08-22T01:50:20Z",
                 "owner": "libigl",
                 "repo": "libigl",
-                "stars": 5074
+                "stars": 5075
               }
             },
             {
@@ -552,7 +552,7 @@
                 "last_commit": "2024-07-01T05:21:48Z",
                 "owner": "ethz-asl",
                 "repo": "voxblox",
-                "stars": 1666
+                "stars": 1667
               }
             }
           ],
@@ -626,7 +626,7 @@
                 "last_commit": "2026-06-03T20:02:07Z",
                 "owner": "flexible-collision-library",
                 "repo": "fcl",
-                "stars": 1750
+                "stars": 1751
               }
             }
           ],
@@ -733,7 +733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:13:11.708Z",
+    "last_updated": "2026-08-25T06:06:46.794Z",
     "original_repository": "jslee02/awesome-collision-detection",
     "original_repository_id": 59176406,
     "original_repository_sha": "60a592a8f78967860dc4830a76bfcf282e44b376",
