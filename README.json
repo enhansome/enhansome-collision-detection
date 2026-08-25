@@ -17,7 +17,7 @@
                 "last_commit": "2025-10-22T02:13:14Z",
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14693
+                "stars": 14695
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 400501136,
                 "language": "C++",
-                "last_commit": "2026-08-25T00:03:38Z",
+                "last_commit": "2026-08-25T09:46:03Z",
                 "owner": "google-deepmind",
                 "repo": "mujoco",
-                "stars": 14657
+                "stars": 14660
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-24T04:56:46Z",
                 "owner": "erincatto",
                 "repo": "box2d",
-                "stars": 10300
+                "stars": 10302
               }
             },
             {
@@ -552,7 +552,7 @@
                 "last_commit": "2024-07-01T05:21:48Z",
                 "owner": "ethz-asl",
                 "repo": "voxblox",
-                "stars": 1667
+                "stars": 1666
               }
             }
           ],
@@ -733,7 +733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:06:46.794Z",
+    "last_updated": "2026-08-25T09:49:15.077Z",
     "original_repository": "jslee02/awesome-collision-detection",
     "original_repository_id": 59176406,
     "original_repository_sha": "60a592a8f78967860dc4830a76bfcf282e44b376",
