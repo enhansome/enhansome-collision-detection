@@ -17,7 +17,7 @@
                 "last_commit": "2025-10-22T02:13:14Z",
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14695
+                "stars": 14699
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 400501136,
                 "language": "C++",
-                "last_commit": "2026-08-25T09:46:03Z",
+                "last_commit": "2026-08-26T09:15:33Z",
                 "owner": "google-deepmind",
                 "repo": "mujoco",
-                "stars": 14660
+                "stars": 14676
               }
             },
             {
@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 32222044,
                 "language": "C",
-                "last_commit": "2026-08-24T04:56:46Z",
+                "last_commit": "2026-08-26T06:40:01Z",
                 "owner": "erincatto",
                 "repo": "box2d",
                 "stars": 10302
@@ -77,7 +77,7 @@
                 "last_commit": "2026-08-07T09:37:38Z",
                 "owner": "NVIDIA-Omniverse",
                 "repo": "PhysX",
-                "stars": 4733
+                "stars": 4735
               }
             },
             {
@@ -122,7 +122,7 @@
                 "last_commit": "2021-05-09T02:49:46Z",
                 "owner": "RandyGaul",
                 "repo": "qu3e",
-                "stars": 994
+                "stars": 992
               }
             },
             {
@@ -152,7 +152,7 @@
                 "last_commit": "2026-08-08T18:10:38Z",
                 "owner": "dimforge",
                 "repo": "parry",
-                "stars": 857
+                "stars": 858
               }
             },
             {
@@ -358,10 +358,10 @@
                 "archived": false,
                 "id": 17055264,
                 "language": "C++",
-                "last_commit": "2026-08-22T01:50:20Z",
+                "last_commit": "2026-08-26T01:26:58Z",
                 "owner": "libigl",
                 "repo": "libigl",
-                "stars": 5075
+                "stars": 5076
               }
             },
             {
@@ -376,7 +376,7 @@
                 "last_commit": "2026-08-19T04:28:56Z",
                 "owner": "SarahWeiii",
                 "repo": "CoACD",
-                "stars": 1133
+                "stars": 1134
               }
             },
             {
@@ -530,7 +530,7 @@
                 "last_commit": "2026-08-19T04:28:56Z",
                 "owner": "SarahWeiii",
                 "repo": "CoACD",
-                "stars": 1133
+                "stars": 1134
               }
             }
           ],
@@ -733,7 +733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T09:49:15.077Z",
+    "last_updated": "2026-08-26T09:54:34.862Z",
     "original_repository": "jslee02/awesome-collision-detection",
     "original_repository_id": 59176406,
     "original_repository_sha": "60a592a8f78967860dc4830a76bfcf282e44b376",
