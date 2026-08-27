@@ -7,6 +7,21 @@
           "children": [
             {
               "node_type": "item",
+              "title": "🟢 MuJoCo",
+              "description": "Physics simulator with contact, collision, and distance queries for robotics and control. ⭐ 13.4k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 400501136,
+                "language": "C++",
+                "last_commit": "2026-08-27T19:34:05Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco",
+                "stars": 14705
+              }
+            },
+            {
+              "node_type": "item",
               "title": "🟢 Bullet",
               "description": "Real-time physics SDK with collision detection for games, robotics, and simulation. ⭐ 14.5k",
               "children": [],
@@ -17,22 +32,7 @@
                 "last_commit": "2025-10-22T02:13:14Z",
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14699
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "🟢 MuJoCo",
-              "description": "Physics simulator with contact, collision, and distance queries for robotics and control. ⭐ 13.4k",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 400501136,
-                "language": "C++",
-                "last_commit": "2026-08-27T11:21:28Z",
-                "owner": "google-deepmind",
-                "repo": "mujoco",
-                "stars": 14686
+                "stars": 14698
               }
             },
             {
@@ -44,10 +44,10 @@
                 "archived": false,
                 "id": 32222044,
                 "language": "C",
-                "last_commit": "2026-08-27T06:15:57Z",
+                "last_commit": "2026-08-27T19:35:21Z",
                 "owner": "erincatto",
                 "repo": "box2d",
-                "stars": 10303
+                "stars": 10304
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-05T00:10:44Z",
                 "owner": "RandyGaul",
                 "repo": "cute_headers",
-                "stars": 5053
+                "stars": 5054
               }
             },
             {
@@ -104,7 +104,7 @@
                 "archived": false,
                 "id": 5875030,
                 "language": "C++",
-                "last_commit": "2026-08-27T04:20:59Z",
+                "last_commit": "2026-08-27T18:42:46Z",
                 "owner": "flexible-collision-library",
                 "repo": "fcl",
                 "stars": 1750
@@ -490,7 +490,7 @@
                 "archived": false,
                 "id": 24677392,
                 "language": "C++",
-                "last_commit": "2026-08-27T08:36:00Z",
+                "last_commit": "2026-08-27T16:58:02Z",
                 "owner": "CGAL",
                 "repo": "cgal",
                 "stars": 6026
@@ -623,7 +623,7 @@
                 "archived": false,
                 "id": 5875030,
                 "language": "C++",
-                "last_commit": "2026-08-27T04:20:59Z",
+                "last_commit": "2026-08-27T18:42:46Z",
                 "owner": "flexible-collision-library",
                 "repo": "fcl",
                 "stars": 1750
@@ -733,7 +733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:31:13.868Z",
+    "last_updated": "2026-08-27T19:49:05.669Z",
     "original_repository_info": {
       "archived": false,
       "id": 59176406,
