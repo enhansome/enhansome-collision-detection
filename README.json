@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 400501136,
                 "language": "C++",
-                "last_commit": "2026-08-27T19:34:05Z",
+                "last_commit": "2026-08-28T20:38:51Z",
                 "owner": "google-deepmind",
                 "repo": "mujoco",
-                "stars": 14705
-              }
+                "stars": 14750
+              },
+              "first_seen": "2026-08-28T20:49:26.233Z"
             },
             {
               "node_type": "item",
@@ -32,8 +33,9 @@
                 "last_commit": "2025-10-22T02:13:14Z",
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14698
-              }
+                "stars": 14703
+              },
+              "first_seen": "2026-08-28T20:49:26.233Z"
             },
             {
               "node_type": "item",
@@ -47,8 +49,9 @@
                 "last_commit": "2026-08-27T19:35:21Z",
                 "owner": "erincatto",
                 "repo": "box2d",
-                "stars": 10304
-              }
+                "stars": 10309
+              },
+              "first_seen": "2026-08-28T20:49:26.233Z"
             },
             {
               "node_type": "item",
@@ -62,8 +65,9 @@
                 "last_commit": "2026-08-05T00:10:44Z",
                 "owner": "RandyGaul",
                 "repo": "cute_headers",
-                "stars": 5054
-              }
+                "stars": 5055
+              },
+              "first_seen": "2026-08-28T20:49:26.233Z"
             },
             {
               "node_type": "item",
@@ -74,11 +78,12 @@
                 "archived": false,
                 "id": 545381143,
                 "language": "C++",
-                "last_commit": "2026-08-07T09:37:38Z",
+                "last_commit": "2026-08-28T09:01:14Z",
                 "owner": "NVIDIA-Omniverse",
                 "repo": "PhysX",
-                "stars": 4737
-              }
+                "stars": 4741
+              },
+              "first_seen": "2026-08-28T20:49:26.233Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "DanielChappuis",
                 "repo": "reactphysics3d",
                 "stars": 1771
-              }
+              },
+              "first_seen": "2026-08-28T20:49:26.233Z"
             },
             {
               "node_type": "item",
@@ -104,11 +110,12 @@
                 "archived": false,
                 "id": 5875030,
                 "language": "C++",
-                "last_commit": "2026-08-27T18:42:46Z",
+                "last_commit": "2026-08-28T16:19:26Z",
                 "owner": "flexible-collision-library",
                 "repo": "fcl",
                 "stars": 1750
-              }
+              },
+              "first_seen": "2026-08-28T20:49:26.233Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "RandyGaul",
                 "repo": "qu3e",
                 "stars": 992
-              }
+              },
+              "first_seen": "2026-08-28T20:49:26.233Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "dimforge",
                 "repo": "ncollide",
                 "stars": 926
-              }
+              },
+              "first_seen": "2026-08-28T20:49:26.233Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "dimforge",
                 "repo": "parry",
                 "stars": 859
-              }
+              },
+              "first_seen": "2026-08-28T20:49:26.233Z"
             },
             {
               "node_type": "item",
@@ -168,7 +178,8 @@
                 "owner": "danfis",
                 "repo": "libccd",
                 "stars": 646
-              }
+              },
+              "first_seen": "2026-08-28T20:49:26.233Z"
             },
             {
               "node_type": "item",
@@ -179,11 +190,12 @@
                 "archived": false,
                 "id": 27596602,
                 "language": "C++",
-                "last_commit": "2026-08-27T09:12:09Z",
+                "last_commit": "2026-08-28T20:06:12Z",
                 "owner": "coal-library",
                 "repo": "coal",
-                "stars": 640
-              }
+                "stars": 639
+              },
+              "first_seen": "2026-08-28T20:49:26.233Z"
             },
             {
               "node_type": "item",
@@ -198,7 +210,8 @@
                 "owner": "bepu",
                 "repo": "bepuphysics1",
                 "stars": 434
-              }
+              },
+              "first_seen": "2026-08-28T20:49:26.233Z"
             },
             {
               "node_type": "item",
@@ -213,7 +226,8 @@
                 "owner": "BerkeleyAutomation",
                 "repo": "python-fcl",
                 "stars": 270
-              }
+              },
+              "first_seen": "2026-08-28T20:49:26.233Z"
             },
             {
               "node_type": "item",
@@ -227,8 +241,9 @@
                 "last_commit": "2026-07-07T02:24:06Z",
                 "owner": "UM-ARM-Lab",
                 "repo": "pytorch_volumetric",
-                "stars": 251
-              }
+                "stars": 250
+              },
+              "first_seen": "2026-08-28T20:49:26.233Z"
             },
             {
               "node_type": "item",
@@ -243,7 +258,8 @@
                 "owner": "MattiaMontanari",
                 "repo": "openGJK",
                 "stars": 206
-              }
+              },
+              "first_seen": "2026-08-28T20:49:26.233Z"
             },
             {
               "node_type": "item",
@@ -258,7 +274,8 @@
                 "owner": "Continuous-Collision-Detection",
                 "repo": "Tight-Inclusion",
                 "stars": 160
-              }
+              },
+              "first_seen": "2026-08-28T20:49:26.233Z"
             },
             {
               "node_type": "item",
@@ -273,7 +290,8 @@
                 "owner": "rustgd",
                 "repo": "collision-rs",
                 "stars": 130
-              }
+              },
+              "first_seen": "2026-08-28T20:49:26.233Z"
             },
             {
               "node_type": "item",
@@ -288,7 +306,8 @@
                 "owner": "BeRo1985",
                 "repo": "kraft",
                 "stars": 130
-              }
+              },
+              "first_seen": "2026-08-28T20:49:26.233Z"
             },
             {
               "node_type": "item",
@@ -303,7 +322,8 @@
                 "owner": "Continuous-Collision-Detection",
                 "repo": "CCD-Wrapper",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T20:49:26.233Z"
             },
             {
               "node_type": "item",
@@ -318,7 +338,8 @@
                 "owner": "mattleibow",
                 "repo": "jitterphysics",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T20:49:26.233Z"
             }
           ],
           "description": "Collision detection, distance query, and proximity query libraries. See also Comparisons.\nSome libraries, such as ODE and Bullet, are physics engines that can also be used as collision detection libraries.",
@@ -340,7 +361,8 @@
                 "owner": "jslee02",
                 "repo": "OZCollide",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T20:49:26.233Z"
             }
           ],
           "description": null,
@@ -362,7 +384,8 @@
                 "owner": "libigl",
                 "repo": "libigl",
                 "stars": 5078
-              }
+              },
+              "first_seen": "2026-08-28T20:49:26.233Z"
             },
             {
               "node_type": "item",
@@ -373,11 +396,12 @@
                 "archived": false,
                 "id": 488313408,
                 "language": "C++",
-                "last_commit": "2026-08-19T04:28:56Z",
+                "last_commit": "2026-08-28T19:25:45Z",
                 "owner": "SarahWeiii",
                 "repo": "CoACD",
-                "stars": 1135
-              }
+                "stars": 1136
+              },
+              "first_seen": "2026-08-28T20:49:26.233Z"
             },
             {
               "node_type": "item",
@@ -392,7 +416,8 @@
                 "owner": "mlivesu",
                 "repo": "cinolib",
                 "stars": 1108
-              }
+              },
+              "first_seen": "2026-08-28T20:49:26.233Z"
             },
             {
               "node_type": "item",
@@ -407,7 +432,8 @@
                 "owner": "gaschler",
                 "repo": "bounding-mesh",
                 "stars": 349
-              }
+              },
+              "first_seen": "2026-08-28T20:49:26.233Z"
             }
           ],
           "description": "Geometry processing libraries useful for collision-ready meshes and convex approximations.",
@@ -431,11 +457,12 @@
                 "archived": false,
                 "id": 27596602,
                 "language": "C++",
-                "last_commit": "2026-08-27T09:12:09Z",
+                "last_commit": "2026-08-28T20:06:12Z",
                 "owner": "coal-library",
                 "repo": "coal",
-                "stars": 640
-              }
+                "stars": 639
+              },
+              "first_seen": "2026-08-28T20:49:26.233Z"
             },
             {
               "node_type": "item",
@@ -446,11 +473,12 @@
                 "archived": false,
                 "id": 27596602,
                 "language": "C++",
-                "last_commit": "2026-08-27T09:12:09Z",
+                "last_commit": "2026-08-28T20:06:12Z",
                 "owner": "coal-library",
                 "repo": "coal",
-                "stars": 640
-              }
+                "stars": 639
+              },
+              "first_seen": "2026-08-28T20:49:26.233Z"
             }
           ],
           "description": null,
@@ -468,11 +496,12 @@
                 "archived": false,
                 "id": 27596602,
                 "language": "C++",
-                "last_commit": "2026-08-27T09:12:09Z",
+                "last_commit": "2026-08-28T20:06:12Z",
                 "owner": "coal-library",
                 "repo": "coal",
-                "stars": 640
-              }
+                "stars": 639
+              },
+              "first_seen": "2026-08-28T20:49:26.233Z"
             }
           ],
           "description": null,
@@ -494,7 +523,8 @@
                 "owner": "CGAL",
                 "repo": "cgal",
                 "stars": 6026
-              }
+              },
+              "first_seen": "2026-08-28T20:49:26.233Z"
             },
             {
               "node_type": "item",
@@ -509,7 +539,8 @@
                 "owner": "erich666",
                 "repo": "jgt-code",
                 "stars": 495
-              }
+              },
+              "first_seen": "2026-08-28T20:49:26.233Z"
             }
           ],
           "description": null,
@@ -527,11 +558,12 @@
                 "archived": false,
                 "id": 488313408,
                 "language": "C++",
-                "last_commit": "2026-08-19T04:28:56Z",
+                "last_commit": "2026-08-28T19:25:45Z",
                 "owner": "SarahWeiii",
                 "repo": "CoACD",
-                "stars": 1135
-              }
+                "stars": 1136
+              },
+              "first_seen": "2026-08-28T20:49:26.233Z"
             }
           ],
           "description": null,
@@ -553,7 +585,8 @@
                 "owner": "ethz-asl",
                 "repo": "voxblox",
                 "stars": 1666
-              }
+              },
+              "first_seen": "2026-08-28T20:49:26.233Z"
             }
           ],
           "description": null,
@@ -575,7 +608,8 @@
                 "owner": "flann-lib",
                 "repo": "flann",
                 "stars": 2373
-              }
+              },
+              "first_seen": "2026-08-28T20:49:26.233Z"
             },
             {
               "node_type": "item",
@@ -590,7 +624,8 @@
                 "owner": "manzilzaheer",
                 "repo": "CoverTree",
                 "stars": 95
-              }
+              },
+              "first_seen": "2026-08-28T20:49:26.233Z"
             },
             {
               "node_type": "item",
@@ -605,7 +640,8 @@
                 "owner": "DNCrane",
                 "repo": "Cover-Tree",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-28T20:49:26.233Z"
             }
           ],
           "description": null,
@@ -623,11 +659,12 @@
                 "archived": false,
                 "id": 5875030,
                 "language": "C++",
-                "last_commit": "2026-08-27T18:42:46Z",
+                "last_commit": "2026-08-28T16:19:26Z",
                 "owner": "flexible-collision-library",
                 "repo": "fcl",
                 "stars": 1750
-              }
+              },
+              "first_seen": "2026-08-28T20:49:26.233Z"
             }
           ],
           "description": null,
@@ -655,7 +692,8 @@
                 "owner": "ttvd",
                 "repo": "spatial-collision-datastructures",
                 "stars": 130
-              }
+              },
+              "first_seen": "2026-08-28T20:49:26.233Z"
             }
           ],
           "description": null,
@@ -677,7 +715,8 @@
                 "owner": "jeffThompson",
                 "repo": "CollisionDetection",
                 "stars": 453
-              }
+              },
+              "first_seen": "2026-08-28T20:49:26.233Z"
             }
           ],
           "description": null,
@@ -699,7 +738,8 @@
                 "owner": "ttvd",
                 "repo": "spatial-collision-datastructures",
                 "stars": 130
-              }
+              },
+              "first_seen": "2026-08-28T20:49:26.233Z"
             },
             {
               "node_type": "group",
@@ -719,7 +759,8 @@
                     "owner": "leonardo-domingues",
                     "repo": "atrbvh",
                     "stars": 56
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:49:26.233Z"
                 }
               ]
             }
@@ -733,7 +774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:49:05.669Z",
+    "last_updated": "2026-08-28T20:49:26.233Z",
     "original_repository_info": {
       "archived": false,
       "id": 59176406,
