@@ -27,11 +27,11 @@ A curated list of collision detection libraries, algorithms, papers, and related
 
 *Collision detection, distance query, and proximity query libraries. See also [Comparisons](COMPARISONS.md).*
 
-* 🟢 [MuJoCo](https://mujoco.org/) - Physics simulator with contact, collision, and distance queries for robotics and control. [⭐ 13.4k](https://github.com/google-deepmind/mujoco) ⭐ 14,750 | 🐛 354 | 🌐 C++ | 📅 2026-08-28
+* 🟢 [MuJoCo](https://mujoco.org/) - Physics simulator with contact, collision, and distance queries for robotics and control. [⭐ 13.4k](https://github.com/google-deepmind/mujoco) ⭐ 14,758 | 🐛 354 | 🌐 C++ | 📅 2026-08-28
 * 🟢 [Bullet](http://bulletphysics.org) - Real-time physics SDK with collision detection for games, robotics, and simulation. [⭐ 14.5k](https://github.com/bulletphysics/bullet3) ⭐ 14,703 | 🐛 424 | 🌐 C++ | 📅 2025-10-22
-* 🟢 [Box2D](https://box2d.org) - 2D physics engine with collision, distance, ray cast, and shape cast queries. [⭐ 9.7k](https://github.com/erincatto/box2d) ⭐ 10,309 | 🐛 30 | 🌐 C | 📅 2026-08-27
+* 🟢 [Box2D](https://box2d.org) - 2D physics engine with collision, distance, ray cast, and shape cast queries. [⭐ 9.7k](https://github.com/erincatto/box2d) ⭐ 10,309 | 🐛 30 | 🌐 C | 📅 2026-08-29
 * 🟢 tinyc2 - Single-header 2D collision detection library for primitive shapes. [⭐ 5k](https://github.com/RandyGaul/tinyheaders) ⭐ 5,055 | 🐛 25 | 🌐 C | 📅 2026-08-05
-* 🟢 [PhysX](https://nvidia-omniverse.github.io/PhysX/) - NVIDIA physics SDK with scene queries, contact generation, and collision detection. [⭐ 4.5k](https://github.com/NVIDIA-Omniverse/PhysX) ⭐ 4,741 | 🐛 74 | 🌐 C++ | 📅 2026-08-28
+* 🟢 [PhysX](https://nvidia-omniverse.github.io/PhysX/) - NVIDIA physics SDK with scene queries, contact generation, and collision detection. [⭐ 4.5k](https://github.com/NVIDIA-Omniverse/PhysX) ⭐ 4,742 | 🐛 74 | 🌐 C++ | 📅 2026-08-28
 * 🟡 [ReactPhysics3d](http://www.reactphysics3d.com/) - C++ 3D physics engine with rigid body collision detection. [⭐ 1.7k](https://github.com/DanielChappuis/reactphysics3d) ⭐ 1,771 | 🐛 91 | 🌐 C++ | 📅 2025-03-28
 * 🟢 [FCL](https://github.com/flexible-collision-library/fcl) ⭐ 1,750 | 🐛 245 | 🌐 C++ | 📅 2026-08-28 - Flexible Collision Library for collision, distance, and continuous collision queries. [⭐ 1.7k](https://github.com/flexible-collision-library/fcl) ⭐ 1,750 | 🐛 245 | 🌐 C++ | 📅 2026-08-28
 * 💀 qu3e - Lightweight 3D rigid body physics engine with collision detection. [⭐ 991](https://github.com/RandyGaul/qu3e) ⚠️ Archived
@@ -171,7 +171,7 @@ A curated list of collision detection libraries, algorithms, papers, and related
 
 ## [Contributing](#contents)
 
-Contributions are very welcome! Please read the [contribution guidelines](https://github.com/jslee02/awesome-collision-detection/blob/main/CONTRIBUTING.md) ⭐ 1,041 | 🐛 2 | 🌐 Python | 📅 2026-08-24 first. Also, please feel free to report any error.
+Contributions are very welcome! Please read the [contribution guidelines](https://github.com/jslee02/awesome-collision-detection/blob/main/CONTRIBUTING.md) ⭐ 1,042 | 🐛 2 | 🌐 Python | 📅 2026-08-24 first. Also, please feel free to report any error.
 
 ## [Star History](#contents)
 
@@ -183,4 +183,4 @@ Contributions are very welcome! Please read the [contribution guidelines](https:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
