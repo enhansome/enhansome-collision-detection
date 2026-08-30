@@ -18,10 +18,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-29T12:23:26Z",
-                "open_issues": 355,
+                "open_issues": 358,
                 "owner": "google-deepmind",
                 "repo": "mujoco",
-                "stars": 14771,
+                "stars": 14789,
                 "topics": [
                   "mujoco",
                   "physics",
@@ -46,7 +46,7 @@
                 "open_issues": 424,
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14703,
+                "stars": 14704,
                 "topics": [
                   "computer-animation",
                   "game-development",
@@ -73,7 +73,7 @@
                 "id": 32222044,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-08-29T03:40:52Z",
+                "last_commit": "2026-08-30T06:46:41Z",
                 "open_issues": 30,
                 "owner": "erincatto",
                 "repo": "box2d",
@@ -132,7 +132,7 @@
                 "open_issues": 74,
                 "owner": "NVIDIA-Omniverse",
                 "repo": "PhysX",
-                "stars": 4742,
+                "stars": 4743,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:26.233Z"
@@ -273,7 +273,7 @@
                 "open_issues": 37,
                 "owner": "danfis",
                 "repo": "libccd",
-                "stars": 646,
+                "stars": 647,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:26.233Z"
@@ -294,7 +294,7 @@
                 "open_issues": 54,
                 "owner": "coal-library",
                 "repo": "coal",
-                "stars": 639,
+                "stars": 640,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:26.233Z"
@@ -611,7 +611,7 @@
                 "open_issues": 30,
                 "owner": "SarahWeiii",
                 "repo": "CoACD",
-                "stars": 1137,
+                "stars": 1139,
                 "topics": [
                   "collision",
                   "convex",
@@ -712,7 +712,7 @@
                 "open_issues": 54,
                 "owner": "coal-library",
                 "repo": "coal",
-                "stars": 639,
+                "stars": 640,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:26.233Z"
@@ -733,7 +733,7 @@
                 "open_issues": 54,
                 "owner": "coal-library",
                 "repo": "coal",
-                "stars": 639,
+                "stars": 640,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:26.233Z"
@@ -761,7 +761,7 @@
                 "open_issues": 54,
                 "owner": "coal-library",
                 "repo": "coal",
-                "stars": 639,
+                "stars": 640,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:26.233Z"
@@ -789,7 +789,7 @@
                 "open_issues": 677,
                 "owner": "CGAL",
                 "repo": "cgal",
-                "stars": 6026,
+                "stars": 6027,
                 "topics": [
                   "algorithms",
                   "arrange",
@@ -856,7 +856,7 @@
                 "open_issues": 30,
                 "owner": "SarahWeiii",
                 "repo": "CoACD",
-                "stars": 1137,
+                "stars": 1139,
                 "topics": [
                   "collision",
                   "convex",
@@ -1144,7 +1144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T14:26:28.149Z",
+    "last_updated": "2026-08-30T14:24:05.222Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome collision detection libraries and resources",
