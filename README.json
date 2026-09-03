@@ -17,11 +17,11 @@
                 "id": 400501136,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T11:25:15Z",
-                "open_issues": 356,
+                "last_commit": "2026-09-03T12:35:19Z",
+                "open_issues": 360,
                 "owner": "google-deepmind",
                 "repo": "mujoco",
-                "stars": 14875,
+                "stars": 14903,
                 "topics": [
                   "mujoco",
                   "physics",
@@ -46,7 +46,7 @@
                 "open_issues": 424,
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14711,
+                "stars": 14712,
                 "topics": [
                   "computer-animation",
                   "game-development",
@@ -73,11 +73,11 @@
                 "id": 32222044,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-02T05:36:36Z",
-                "open_issues": 19,
+                "last_commit": "2026-09-03T06:44:49Z",
+                "open_issues": 20,
                 "owner": "erincatto",
                 "repo": "box2d",
-                "stars": 10321,
+                "stars": 10324,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:26.233Z"
@@ -128,11 +128,11 @@
                 "id": 545381143,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-28T09:01:14Z",
+                "last_commit": "2026-09-03T12:47:22Z",
                 "open_issues": 74,
                 "owner": "NVIDIA-Omniverse",
                 "repo": "PhysX",
-                "stars": 4747,
+                "stars": 4749,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:26.233Z"
@@ -178,11 +178,11 @@
                 "id": 5875030,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-01T21:36:26Z",
-                "open_issues": 246,
+                "last_commit": "2026-09-02T20:56:34Z",
+                "open_issues": 244,
                 "owner": "flexible-collision-library",
                 "repo": "fcl",
-                "stars": 1753,
+                "stars": 1752,
                 "topics": [
                   "collision",
                   "collision-detection"
@@ -248,7 +248,7 @@
                 "open_issues": 54,
                 "owner": "dimforge",
                 "repo": "parry",
-                "stars": 860,
+                "stars": 862,
                 "topics": [
                   "collision-detection",
                   "gamedev",
@@ -584,11 +584,11 @@
                 "id": 17055264,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-01T20:37:00Z",
+                "last_commit": "2026-09-02T18:57:28Z",
                 "open_issues": 157,
                 "owner": "libigl",
                 "repo": "libigl",
-                "stars": 5080,
+                "stars": 5081,
                 "topics": [
                   "geometry-processing"
                 ]
@@ -611,7 +611,7 @@
                 "open_issues": 30,
                 "owner": "SarahWeiii",
                 "repo": "CoACD",
-                "stars": 1143,
+                "stars": 1142,
                 "topics": [
                   "collision",
                   "convex",
@@ -786,7 +786,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-02T12:06:25Z",
-                "open_issues": 679,
+                "open_issues": 681,
                 "owner": "CGAL",
                 "repo": "cgal",
                 "stars": 6031,
@@ -856,7 +856,7 @@
                 "open_issues": 30,
                 "owner": "SarahWeiii",
                 "repo": "CoACD",
-                "stars": 1143,
+                "stars": 1142,
                 "topics": [
                   "collision",
                   "convex",
@@ -986,11 +986,11 @@
                 "id": 5875030,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-01T21:36:26Z",
-                "open_issues": 246,
+                "last_commit": "2026-09-02T20:56:34Z",
+                "open_issues": 244,
                 "owner": "flexible-collision-library",
                 "repo": "fcl",
-                "stars": 1753,
+                "stars": 1752,
                 "topics": [
                   "collision",
                   "collision-detection"
@@ -1144,7 +1144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T13:35:56.287Z",
+    "last_updated": "2026-09-03T13:32:11.214Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome collision detection libraries and resources",
