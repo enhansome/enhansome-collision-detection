@@ -17,11 +17,11 @@
                 "id": 400501136,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-10T13:17:14Z",
-                "open_issues": 339,
+                "last_commit": "2026-09-11T13:08:54Z",
+                "open_issues": 338,
                 "owner": "google-deepmind",
                 "repo": "mujoco",
-                "stars": 15038,
+                "stars": 15055,
                 "topics": [
                   "mujoco",
                   "physics",
@@ -46,7 +46,7 @@
                 "open_issues": 424,
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14721,
+                "stars": 14717,
                 "topics": [
                   "computer-animation",
                   "game-development",
@@ -73,7 +73,7 @@
                 "id": 32222044,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-10T06:04:23Z",
+                "last_commit": "2026-09-11T05:57:59Z",
                 "open_issues": 22,
                 "owner": "erincatto",
                 "repo": "box2d",
@@ -98,7 +98,7 @@
                 "open_issues": 25,
                 "owner": "RandyGaul",
                 "repo": "cute_headers",
-                "stars": 5060,
+                "stars": 5061,
                 "topics": [
                   "audio",
                   "c",
@@ -132,7 +132,7 @@
                 "open_issues": 75,
                 "owner": "NVIDIA-Omniverse",
                 "repo": "PhysX",
-                "stars": 4764,
+                "stars": 4763,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:26.233Z"
@@ -182,7 +182,7 @@
                 "open_issues": 244,
                 "owner": "flexible-collision-library",
                 "repo": "fcl",
-                "stars": 1754,
+                "stars": 1755,
                 "topics": [
                   "collision",
                   "collision-detection"
@@ -273,7 +273,7 @@
                 "open_issues": 37,
                 "owner": "danfis",
                 "repo": "libccd",
-                "stars": 649,
+                "stars": 648,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:26.233Z"
@@ -436,6 +436,39 @@
             },
             {
               "node_type": "item",
+              "title": "🟢 Kraft",
+              "description": "Object Pascal physics engine with discrete and optional continuous collision detection. ⭐ 126",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Kraft Physics Engine is an open source Object Pascal physics engine library that can be used in 3D games.",
+                "homepage": null,
+                "id": 37377686,
+                "language": "Pascal",
+                "license": null,
+                "last_commit": "2026-09-10T21:56:43Z",
+                "open_issues": 6,
+                "owner": "BeRo1985",
+                "repo": "kraft",
+                "stars": 131,
+                "topics": [
+                  "3d",
+                  "delphi",
+                  "freepascal",
+                  "game-development",
+                  "gamedev",
+                  "multithreaded",
+                  "object-pascal",
+                  "parallel-processing",
+                  "pascal",
+                  "physics",
+                  "physics-engine"
+                ]
+              },
+              "first_seen": "2026-08-28T20:49:26.233Z"
+            },
+            {
+              "node_type": "item",
               "title": "🔴 collision-rs - Rust collision detection library with broadphase and narrowphase queries. ⭐ 130",
               "description": null,
               "children": [],
@@ -455,39 +488,6 @@
                   "cgmath",
                   "collision-detection",
                   "rust"
-                ]
-              },
-              "first_seen": "2026-08-28T20:49:26.233Z"
-            },
-            {
-              "node_type": "item",
-              "title": "🟢 Kraft",
-              "description": "Object Pascal physics engine with discrete and optional continuous collision detection. ⭐ 126",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Kraft Physics Engine is an open source Object Pascal physics engine library that can be used in 3D games.",
-                "homepage": null,
-                "id": 37377686,
-                "language": "Pascal",
-                "license": null,
-                "last_commit": "2026-09-09T21:53:54Z",
-                "open_issues": 6,
-                "owner": "BeRo1985",
-                "repo": "kraft",
-                "stars": 130,
-                "topics": [
-                  "3d",
-                  "delphi",
-                  "freepascal",
-                  "game-development",
-                  "gamedev",
-                  "multithreaded",
-                  "object-pascal",
-                  "parallel-processing",
-                  "pascal",
-                  "physics",
-                  "physics-engine"
                 ]
               },
               "first_seen": "2026-08-28T20:49:26.233Z"
@@ -588,7 +588,7 @@
                 "open_issues": 154,
                 "owner": "libigl",
                 "repo": "libigl",
-                "stars": 5084,
+                "stars": 5086,
                 "topics": [
                   "geometry-processing"
                 ]
@@ -632,7 +632,7 @@
                 "id": 100456759,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-08-19T07:25:43Z",
+                "last_commit": "2026-09-11T12:12:05Z",
                 "open_issues": 5,
                 "owner": "mlivesu",
                 "repo": "cinolib",
@@ -785,11 +785,11 @@
                 "id": 24677392,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-09T17:51:58Z",
-                "open_issues": 682,
+                "last_commit": "2026-09-10T15:19:51Z",
+                "open_issues": 684,
                 "owner": "CGAL",
                 "repo": "cgal",
-                "stars": 6036,
+                "stars": 6037,
                 "topics": [
                   "algorithms",
                   "arrange",
@@ -888,7 +888,7 @@
                 "open_issues": 77,
                 "owner": "ethz-asl",
                 "repo": "voxblox",
-                "stars": 1668,
+                "stars": 1669,
                 "topics": [
                   "mapping",
                   "robotics",
@@ -990,7 +990,7 @@
                 "open_issues": 244,
                 "owner": "flexible-collision-library",
                 "repo": "fcl",
-                "stars": 1754,
+                "stars": 1755,
                 "topics": [
                   "collision",
                   "collision-detection"
@@ -1144,7 +1144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T13:33:49.946Z",
+    "last_updated": "2026-09-11T13:30:52.295Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome collision detection libraries and resources",
@@ -1156,7 +1156,7 @@
       "open_issues": 2,
       "owner": "jslee02",
       "repo": "awesome-collision-detection",
-      "stars": 1043,
+      "stars": 1042,
       "topics": [
         "awesome-list",
         "collision",
