@@ -17,11 +17,11 @@
                 "id": 400501136,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T13:08:54Z",
-                "open_issues": 338,
+                "last_commit": "2026-09-12T09:02:38Z",
+                "open_issues": 337,
                 "owner": "google-deepmind",
                 "repo": "mujoco",
-                "stars": 15055,
+                "stars": 15072,
                 "topics": [
                   "mujoco",
                   "physics",
@@ -46,7 +46,7 @@
                 "open_issues": 424,
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14717,
+                "stars": 14720,
                 "topics": [
                   "computer-animation",
                   "game-development",
@@ -73,11 +73,11 @@
                 "id": 32222044,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-11T05:57:59Z",
+                "last_commit": "2026-09-12T06:52:01Z",
                 "open_issues": 22,
                 "owner": "erincatto",
                 "repo": "box2d",
-                "stars": 10335,
+                "stars": 10338,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:26.233Z"
@@ -95,10 +95,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-05T00:10:44Z",
-                "open_issues": 25,
+                "open_issues": 28,
                 "owner": "RandyGaul",
                 "repo": "cute_headers",
-                "stars": 5061,
+                "stars": 5062,
                 "topics": [
                   "audio",
                   "c",
@@ -129,10 +129,10 @@
                 "language": "C++",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-03T16:34:03Z",
-                "open_issues": 75,
+                "open_issues": 77,
                 "owner": "NVIDIA-Omniverse",
                 "repo": "PhysX",
-                "stars": 4763,
+                "stars": 4765,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:26.233Z"
@@ -182,7 +182,7 @@
                 "open_issues": 244,
                 "owner": "flexible-collision-library",
                 "repo": "fcl",
-                "stars": 1755,
+                "stars": 1754,
                 "topics": [
                   "collision",
                   "collision-detection"
@@ -611,7 +611,7 @@
                 "open_issues": 30,
                 "owner": "SarahWeiii",
                 "repo": "CoACD",
-                "stars": 1149,
+                "stars": 1150,
                 "topics": [
                   "collision",
                   "convex",
@@ -856,7 +856,7 @@
                 "open_issues": 30,
                 "owner": "SarahWeiii",
                 "repo": "CoACD",
-                "stars": 1149,
+                "stars": 1150,
                 "topics": [
                   "collision",
                   "convex",
@@ -990,7 +990,7 @@
                 "open_issues": 244,
                 "owner": "flexible-collision-library",
                 "repo": "fcl",
-                "stars": 1755,
+                "stars": 1754,
                 "topics": [
                   "collision",
                   "collision-detection"
@@ -1061,7 +1061,7 @@
                 "open_issues": 21,
                 "owner": "jeffThompson",
                 "repo": "CollisionDetection",
-                "stars": 453,
+                "stars": 452,
                 "topics": [
                   "book",
                   "collision-detection",
@@ -1144,7 +1144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T13:30:52.295Z",
+    "last_updated": "2026-09-12T12:49:43.401Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome collision detection libraries and resources",

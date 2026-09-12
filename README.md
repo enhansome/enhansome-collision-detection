@@ -27,13 +27,13 @@ A curated list of collision detection libraries, algorithms, papers, and related
 
 *Collision detection, distance query, and proximity query libraries. See also [Comparisons](COMPARISONS.md).*
 
-* 🟢 [MuJoCo](https://mujoco.org/) - Physics simulator with contact, collision, and distance queries for robotics and control. [⭐ 13.4k](https://github.com/google-deepmind/mujoco) ⭐ 15,055 | 🐛 338 | 🌐 C++ | 📅 2026-09-11
-* 🟢 [Bullet](http://bulletphysics.org) - Real-time physics SDK with collision detection for games, robotics, and simulation. [⭐ 14.5k](https://github.com/bulletphysics/bullet3) ⭐ 14,717 | 🐛 424 | 🌐 C++ | 📅 2025-10-22
-* 🟢 [Box2D](https://box2d.org) - 2D physics engine with collision, distance, ray cast, and shape cast queries. [⭐ 9.7k](https://github.com/erincatto/box2d) ⭐ 10,335 | 🐛 22 | 🌐 C | 📅 2026-09-11
-* 🟢 tinyc2 - Single-header 2D collision detection library for primitive shapes. [⭐ 5k](https://github.com/RandyGaul/tinyheaders) ⭐ 5,061 | 🐛 25 | 🌐 C | 📅 2026-08-05
-* 🟢 [PhysX](https://nvidia-omniverse.github.io/PhysX/) - NVIDIA physics SDK with scene queries, contact generation, and collision detection. [⭐ 4.5k](https://github.com/NVIDIA-Omniverse/PhysX) ⭐ 4,763 | 🐛 75 | 🌐 C++ | 📅 2026-09-03
+* 🟢 [MuJoCo](https://mujoco.org/) - Physics simulator with contact, collision, and distance queries for robotics and control. [⭐ 13.4k](https://github.com/google-deepmind/mujoco) ⭐ 15,072 | 🐛 337 | 🌐 C++ | 📅 2026-09-12
+* 🟢 [Bullet](http://bulletphysics.org) - Real-time physics SDK with collision detection for games, robotics, and simulation. [⭐ 14.5k](https://github.com/bulletphysics/bullet3) ⭐ 14,720 | 🐛 424 | 🌐 C++ | 📅 2025-10-22
+* 🟢 [Box2D](https://box2d.org) - 2D physics engine with collision, distance, ray cast, and shape cast queries. [⭐ 9.7k](https://github.com/erincatto/box2d) ⭐ 10,338 | 🐛 22 | 🌐 C | 📅 2026-09-12
+* 🟢 tinyc2 - Single-header 2D collision detection library for primitive shapes. [⭐ 5k](https://github.com/RandyGaul/tinyheaders) ⭐ 5,062 | 🐛 28 | 🌐 C | 📅 2026-08-05
+* 🟢 [PhysX](https://nvidia-omniverse.github.io/PhysX/) - NVIDIA physics SDK with scene queries, contact generation, and collision detection. [⭐ 4.5k](https://github.com/NVIDIA-Omniverse/PhysX) ⭐ 4,765 | 🐛 77 | 🌐 C++ | 📅 2026-09-03
 * 🟡 [ReactPhysics3d](http://www.reactphysics3d.com/) - C++ 3D physics engine with rigid body collision detection. [⭐ 1.7k](https://github.com/DanielChappuis/reactphysics3d) ⭐ 1,774 | 🐛 93 | 🌐 C++ | 📅 2025-03-28
-* 🟢 [FCL](https://github.com/flexible-collision-library/fcl) ⭐ 1,755 | 🐛 244 | 🌐 C++ | 📅 2026-09-09 - Flexible Collision Library for collision, distance, and continuous collision queries. [⭐ 1.7k](https://github.com/flexible-collision-library/fcl) ⭐ 1,755 | 🐛 244 | 🌐 C++ | 📅 2026-09-09
+* 🟢 [FCL](https://github.com/flexible-collision-library/fcl) ⭐ 1,754 | 🐛 244 | 🌐 C++ | 📅 2026-09-09 - Flexible Collision Library for collision, distance, and continuous collision queries. [⭐ 1.7k](https://github.com/flexible-collision-library/fcl) ⭐ 1,754 | 🐛 244 | 🌐 C++ | 📅 2026-09-09
 * 💀 qu3e - Lightweight 3D rigid body physics engine with collision detection. [⭐ 991](https://github.com/RandyGaul/qu3e) ⚠️ Archived
 * 🔴 [ncollide](http://ncollide.org/) - Rust collision detection library for 2D and 3D geometric queries. [⭐ 934](https://github.com/sebcrozet/ncollide) ⭐ 926 | 🐛 77 | 🌐 Rust | 📅 2023-01-31
 * 🟢 [Parry](https://github.com/dimforge/parry) ⭐ 867 | 🐛 57 | 🌐 Rust | 📅 2026-09-04 - Rust collision detection and geometric query library from Dimforge. [⭐ 819](https://github.com/dimforge/parry) ⭐ 867 | 🐛 57 | 🌐 Rust | 📅 2026-09-04
@@ -65,7 +65,7 @@ A curated list of collision detection libraries, algorithms, papers, and related
 *Geometry processing libraries useful for collision-ready meshes and convex approximations.*
 
 * 🟢 [libigl](https://libigl.github.io/) - A simple C++ geometry processing library. [⭐ 5k](https://github.com/libigl/libigl) ⭐ 5,086 | 🐛 154 | 🌐 C++ | 📅 2026-09-04
-* 🟢 [CoACD](https://colin97.github.io/CoACD/) - Approximate convex decomposition for collision-aware mesh approximation. [⭐ 1k](https://github.com/SarahWeiii/CoACD) ⭐ 1,149 | 🐛 30 | 🌐 C++ | 📅 2026-08-28
+* 🟢 [CoACD](https://colin97.github.io/CoACD/) - Approximate convex decomposition for collision-aware mesh approximation. [⭐ 1k](https://github.com/SarahWeiii/CoACD) ⭐ 1,150 | 🐛 30 | 🌐 C++ | 📅 2026-08-28
 * 🟢 cinolib - A generic programming header only C++ library for processing polygonal and polyhedral meshes. [⭐ 1.1k](https://github.com/mlivesu/cinolib) ⭐ 1,110 | 🐛 5 | 🌐 C++ | 📅 2026-09-11
 * 🔴 [bounding-mesh](http://www.boundingmesh.com/) - Implementation of the bounding mesh and bounding convex decomposition algorithms for single-sided mesh approximation. [⭐ 349](https://github.com/gaschler/bounding-mesh) ⭐ 350 | 🐛 7 | 🌐 C++ | 📅 2021-09-02
 
@@ -92,7 +92,7 @@ A curated list of collision detection libraries, algorithms, papers, and related
 
 #### Mesh Collision
 
-* Approximate Convex Decomposition for 3D Meshes with Collision-Aware Concavity and Tree Search (2022), X. Wei et al. \[[pdf](https://arxiv.org/pdf/2205.02961), [project](https://colin97.github.io/CoACD/), [code](https://github.com/SarahWeiii/CoACD) ⭐ 1,149 | 🐛 30 | 🌐 C++ | 📅 2026-08-28, [video](https://www.youtube.com/watch?v=r12O0z0723s)]
+* Approximate Convex Decomposition for 3D Meshes with Collision-Aware Concavity and Tree Search (2022), X. Wei et al. \[[pdf](https://arxiv.org/pdf/2205.02961), [project](https://colin97.github.io/CoACD/), [code](https://github.com/SarahWeiii/CoACD) ⭐ 1,150 | 🐛 30 | 🌐 C++ | 📅 2026-08-28, [video](https://www.youtube.com/watch?v=r12O0z0723s)]
 * Robust contact generation for robot simulation with unstructured meshes (2013), K. Hauser. \[[pdf](https://motion.cs.illinois.edu/papers/ISRR2013-RobustContact.pdf), [web](http://motion.cs.illinois.edu/simulation/index.html)]
 
 #### Penetration Depth Computation
@@ -123,7 +123,7 @@ A curated list of collision detection libraries, algorithms, papers, and related
 
 #### Comprehensive Collision Detection Library
 
-* FCL: A General Purpose Library for Collision and Proximity Queries (2012), J. Pan et al. \[[pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.259.2177\&rep=rep1\&type=pdf), [code](https://github.com/flexible-collision-library/fcl) ⭐ 1,755 | 🐛 244 | 🌐 C++ | 📅 2026-09-09]
+* FCL: A General Purpose Library for Collision and Proximity Queries (2012), J. Pan et al. \[[pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.259.2177\&rep=rep1\&type=pdf), [code](https://github.com/flexible-collision-library/fcl) ⭐ 1,754 | 🐛 244 | 🌐 C++ | 📅 2026-09-09]
 
 #### Survey
 
@@ -151,7 +151,7 @@ A curated list of collision detection libraries, algorithms, papers, and related
 
 #### Narrow-phase
 
-* [Collision Detection](http://www.jeffreythompson.org/collision-detection/) ([code](https://github.com/jeffThompson/CollisionDetection) ⭐ 453 | 🐛 21 | 🌐 JavaScript | 📅 2023-01-10) by Jeff Thompson - This book explains the algorithms behind those collisions using basic shapes like circles, rectangles, and lines so you can implement them into your own projects.
+* [Collision Detection](http://www.jeffreythompson.org/collision-detection/) ([code](https://github.com/jeffThompson/CollisionDetection) ⭐ 452 | 🐛 21 | 🌐 JavaScript | 📅 2023-01-10) by Jeff Thompson - This book explains the algorithms behind those collisions using basic shapes like circles, rectangles, and lines so you can implement them into your own projects.
 * [Algorithm table for narrowphase algorithms](http://www.realtimerendering.com/intersections.html)
 * [3D Collision detection](http://www.miguelcasillas.com/?mcportfolio=collision-detection-c) by [Miguel Casillas](http://www.miguelcasillas.com/?page_id=451)
 * [Note: The Gibert-Jonson-Keerthi algorithm](http://realtimecollisiondetection.net/pubs/SIGGRAPH04_Ericson_GJK_notes.pdf) by Christer Ericson
@@ -167,7 +167,7 @@ A curated list of collision detection libraries, algorithms, papers, and related
 
 ## [Other Awesome Lists](#contents)
 
-* [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries) ⭐ 3,042 | 🐛 21 | 🌐 Python | 📅 2026-09-06 [⭐ 2.9k](https://github.com/jslee02/awesome-robotics-libraries) ⭐ 3,042 | 🐛 21 | 🌐 Python | 📅 2026-09-06 - This is a list of various libraries and software for robotics. It's also attempting to provide some comparisons for selected libraries and software.
+* [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries) ⭐ 3,043 | 🐛 21 | 🌐 Python | 📅 2026-09-06 [⭐ 2.9k](https://github.com/jslee02/awesome-robotics-libraries) ⭐ 3,043 | 🐛 21 | 🌐 Python | 📅 2026-09-06 - This is a list of various libraries and software for robotics. It's also attempting to provide some comparisons for selected libraries and software.
 
 ## [Contributing](#contents)
 
@@ -183,4 +183,4 @@ Contributions are very welcome! Please read the [contribution guidelines](https:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
