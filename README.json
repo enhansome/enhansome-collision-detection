@@ -17,11 +17,11 @@
                 "id": 400501136,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T13:08:09Z",
-                "open_issues": 329,
+                "last_commit": "2026-09-19T09:01:39Z",
+                "open_issues": 315,
                 "owner": "google-deepmind",
                 "repo": "mujoco",
-                "stars": 15214,
+                "stars": 15223,
                 "topics": [
                   "mujoco",
                   "physics",
@@ -46,7 +46,7 @@
                 "open_issues": 429,
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14728,
+                "stars": 14729,
                 "topics": [
                   "computer-animation",
                   "game-development",
@@ -77,7 +77,7 @@
                 "open_issues": 7,
                 "owner": "erincatto",
                 "repo": "box2d",
-                "stars": 10355,
+                "stars": 10356,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:26.233Z"
@@ -98,7 +98,7 @@
                 "open_issues": 28,
                 "owner": "RandyGaul",
                 "repo": "cute_headers",
-                "stars": 5065,
+                "stars": 5066,
                 "topics": [
                   "audio",
                   "c",
@@ -132,7 +132,7 @@
                 "open_issues": 81,
                 "owner": "NVIDIA-Omniverse",
                 "repo": "PhysX",
-                "stars": 4771,
+                "stars": 4772,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:26.233Z"
@@ -244,11 +244,11 @@
                 "id": 322360701,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-17T19:04:46Z",
-                "open_issues": 56,
+                "last_commit": "2026-09-18T19:19:57Z",
+                "open_issues": 55,
                 "owner": "dimforge",
                 "repo": "parry",
-                "stars": 869,
+                "stars": 871,
                 "topics": [
                   "collision-detection",
                   "gamedev",
@@ -450,7 +450,7 @@
                 "open_issues": 6,
                 "owner": "BeRo1985",
                 "repo": "kraft",
-                "stars": 131,
+                "stars": 132,
                 "topics": [
                   "3d",
                   "delphi",
@@ -786,10 +786,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-14T08:14:21Z",
-                "open_issues": 684,
+                "open_issues": 686,
                 "owner": "CGAL",
                 "repo": "cgal",
-                "stars": 6049,
+                "stars": 6051,
                 "topics": [
                   "algorithms",
                   "arrange",
@@ -1144,7 +1144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T13:34:00.454Z",
+    "last_updated": "2026-09-19T13:06:24.460Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome collision detection libraries and resources",
