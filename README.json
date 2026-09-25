@@ -17,11 +17,11 @@
                 "id": 400501136,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T09:44:02Z",
-                "open_issues": 301,
+                "last_commit": "2026-09-25T14:34:41Z",
+                "open_issues": 304,
                 "owner": "google-deepmind",
                 "repo": "mujoco",
-                "stars": 15319,
+                "stars": 15330,
                 "topics": [
                   "mujoco",
                   "physics",
@@ -46,7 +46,7 @@
                 "open_issues": 430,
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14738,
+                "stars": 14741,
                 "topics": [
                   "computer-animation",
                   "game-development",
@@ -73,11 +73,11 @@
                 "id": 32222044,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-24T05:35:17Z",
-                "open_issues": 8,
+                "last_commit": "2026-09-24T18:49:17Z",
+                "open_issues": 7,
                 "owner": "erincatto",
                 "repo": "box2d",
-                "stars": 10367,
+                "stars": 10369,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:26.233Z"
@@ -132,7 +132,7 @@
                 "open_issues": 91,
                 "owner": "NVIDIA-Omniverse",
                 "repo": "PhysX",
-                "stars": 4775,
+                "stars": 4780,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:26.233Z"
@@ -248,7 +248,7 @@
                 "open_issues": 57,
                 "owner": "dimforge",
                 "repo": "parry",
-                "stars": 873,
+                "stars": 874,
                 "topics": [
                   "collision-detection",
                   "gamedev",
@@ -588,7 +588,7 @@
                 "open_issues": 155,
                 "owner": "libigl",
                 "repo": "libigl",
-                "stars": 5090,
+                "stars": 5091,
                 "topics": [
                   "geometry-processing"
                 ]
@@ -611,7 +611,7 @@
                 "open_issues": 30,
                 "owner": "SarahWeiii",
                 "repo": "CoACD",
-                "stars": 1166,
+                "stars": 1168,
                 "topics": [
                   "collision",
                   "convex",
@@ -786,7 +786,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-21T07:38:57Z",
-                "open_issues": 691,
+                "open_issues": 692,
                 "owner": "CGAL",
                 "repo": "cgal",
                 "stars": 6055,
@@ -856,7 +856,7 @@
                 "open_issues": 30,
                 "owner": "SarahWeiii",
                 "repo": "CoACD",
-                "stars": 1166,
+                "stars": 1168,
                 "topics": [
                   "collision",
                   "convex",
@@ -920,7 +920,7 @@
                 "open_issues": 298,
                 "owner": "flann-lib",
                 "repo": "flann",
-                "stars": 2376,
+                "stars": 2377,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:26.233Z"
@@ -1061,7 +1061,7 @@
                 "open_issues": 21,
                 "owner": "jeffThompson",
                 "repo": "CollisionDetection",
-                "stars": 456,
+                "stars": 457,
                 "topics": [
                   "book",
                   "collision-detection",
@@ -1144,7 +1144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T14:11:04.922Z",
+    "last_updated": "2026-09-25T14:34:58.919Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome collision detection libraries and resources",
@@ -1156,7 +1156,7 @@
       "open_issues": 2,
       "owner": "jslee02",
       "repo": "awesome-collision-detection",
-      "stars": 1043,
+      "stars": 1044,
       "topics": [
         "awesome-list",
         "collision",
