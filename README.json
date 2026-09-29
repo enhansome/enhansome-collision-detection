@@ -17,11 +17,11 @@
                 "id": 400501136,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-28T17:28:24Z",
-                "open_issues": 308,
+                "last_commit": "2026-09-29T15:22:51Z",
+                "open_issues": 306,
                 "owner": "google-deepmind",
                 "repo": "mujoco",
-                "stars": 15368,
+                "stars": 15386,
                 "topics": [
                   "mujoco",
                   "physics",
@@ -43,10 +43,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2025-10-22T02:13:14Z",
-                "open_issues": 430,
+                "open_issues": 431,
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14747,
+                "stars": 14749,
                 "topics": [
                   "computer-animation",
                   "game-development",
@@ -77,7 +77,7 @@
                 "open_issues": 7,
                 "owner": "erincatto",
                 "repo": "box2d",
-                "stars": 10376,
+                "stars": 10378,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:26.233Z"
@@ -95,10 +95,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-05T00:10:44Z",
-                "open_issues": 28,
+                "open_issues": 29,
                 "owner": "RandyGaul",
                 "repo": "cute_headers",
-                "stars": 5076,
+                "stars": 5077,
                 "topics": [
                   "audio",
                   "c",
@@ -129,10 +129,10 @@
                 "language": "C++",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-18T06:27:14Z",
-                "open_issues": 87,
+                "open_issues": 98,
                 "owner": "NVIDIA-Omniverse",
                 "repo": "PhysX",
-                "stars": 4778,
+                "stars": 4779,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:26.233Z"
@@ -153,7 +153,7 @@
                 "open_issues": 93,
                 "owner": "DanielChappuis",
                 "repo": "reactphysics3d",
-                "stars": 1774,
+                "stars": 1773,
                 "topics": [
                   "animation",
                   "collision",
@@ -179,7 +179,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-09T17:53:05Z",
-                "open_issues": 244,
+                "open_issues": 245,
                 "owner": "flexible-collision-library",
                 "repo": "fcl",
                 "stars": 1760,
@@ -338,7 +338,7 @@
                 "open_issues": 30,
                 "owner": "BerkeleyAutomation",
                 "repo": "python-fcl",
-                "stars": 270,
+                "stars": 271,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:26.233Z"
@@ -588,7 +588,7 @@
                 "open_issues": 155,
                 "owner": "libigl",
                 "repo": "libigl",
-                "stars": 5093,
+                "stars": 5094,
                 "topics": [
                   "geometry-processing"
                 ]
@@ -786,7 +786,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-21T07:38:57Z",
-                "open_issues": 693,
+                "open_issues": 695,
                 "owner": "CGAL",
                 "repo": "cgal",
                 "stars": 6060,
@@ -987,7 +987,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-09T17:53:05Z",
-                "open_issues": 244,
+                "open_issues": 245,
                 "owner": "flexible-collision-library",
                 "repo": "fcl",
                 "stars": 1760,
@@ -1144,7 +1144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T17:37:20.080Z",
+    "last_updated": "2026-09-29T15:45:30.045Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome collision detection libraries and resources",
