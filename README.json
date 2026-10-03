@@ -17,11 +17,11 @@
                 "id": 400501136,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T14:33:58Z",
+                "last_commit": "2026-10-02T17:23:31Z",
                 "open_issues": 310,
                 "owner": "google-deepmind",
                 "repo": "mujoco",
-                "stars": 15434,
+                "stars": 15439,
                 "topics": [
                   "mujoco",
                   "physics",
@@ -77,7 +77,7 @@
                 "open_issues": 7,
                 "owner": "erincatto",
                 "repo": "box2d",
-                "stars": 10389,
+                "stars": 10391,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:26.233Z"
@@ -85,7 +85,7 @@
             {
               "node_type": "item",
               "title": "🟢 tinyc2 - Single-header 2D collision detection library for primitive shapes. ⭐ 5k",
-              "description": null,
+              "description": "RandyGaul/cute_headers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -129,7 +129,7 @@
                 "language": "C++",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-18T06:27:14Z",
-                "open_issues": 101,
+                "open_issues": 109,
                 "owner": "NVIDIA-Omniverse",
                 "repo": "PhysX",
                 "stars": 4781,
@@ -153,7 +153,7 @@
                 "open_issues": 93,
                 "owner": "DanielChappuis",
                 "repo": "reactphysics3d",
-                "stars": 1773,
+                "stars": 1774,
                 "topics": [
                   "animation",
                   "collision",
@@ -193,7 +193,7 @@
             {
               "node_type": "item",
               "title": "💀 qu3e - Lightweight 3D rigid body physics engine with collision detection. ⭐ 991",
-              "description": null,
+              "description": "RandyGaul/qu3e",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -245,7 +245,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-18T19:19:57Z",
-                "open_issues": 59,
+                "open_issues": 58,
                 "owner": "dimforge",
                 "repo": "parry",
                 "stars": 877,
@@ -470,7 +470,7 @@
             {
               "node_type": "item",
               "title": "🔴 collision-rs - Rust collision detection library with broadphase and narrowphase queries. ⭐ 130",
-              "description": null,
+              "description": "rustgd/collision-rs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -547,7 +547,7 @@
             {
               "node_type": "item",
               "title": "🔴 OZCollide - Legacy collision detection library. ⭐ 4",
-              "description": null,
+              "description": "jslee02/OZCollide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -611,7 +611,7 @@
                 "open_issues": 30,
                 "owner": "SarahWeiii",
                 "repo": "CoACD",
-                "stars": 1170,
+                "stars": 1171,
                 "topics": [
                   "collision",
                   "convex",
@@ -623,7 +623,7 @@
             {
               "node_type": "item",
               "title": "🟢 cinolib - A generic programming header only C++ library for processing polygonal and polyhedral meshes. ⭐ 1.1k",
-              "description": null,
+              "description": "mlivesu/cinolib",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -789,7 +789,7 @@
                 "open_issues": 695,
                 "owner": "CGAL",
                 "repo": "cgal",
-                "stars": 6061,
+                "stars": 6062,
                 "topics": [
                   "algorithms",
                   "arrange",
@@ -856,7 +856,7 @@
                 "open_issues": 30,
                 "owner": "SarahWeiii",
                 "repo": "CoACD",
-                "stars": 1170,
+                "stars": 1171,
                 "topics": [
                   "collision",
                   "convex",
@@ -1082,7 +1082,7 @@
             {
               "node_type": "item",
               "title": "Benchmark of various spatial data structures for collision detection",
-              "description": null,
+              "description": "ttvd/spatial-collision-datastructures",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1144,7 +1144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:45:06.450Z",
+    "last_updated": "2026-10-03T04:41:11.767Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome collision detection libraries and resources",
