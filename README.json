@@ -17,11 +17,11 @@
                 "id": 400501136,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-04T14:16:51Z",
-                "open_issues": 310,
+                "last_commit": "2026-10-05T16:38:50Z",
+                "open_issues": 311,
                 "owner": "google-deepmind",
                 "repo": "mujoco",
-                "stars": 15457,
+                "stars": 15471,
                 "topics": [
                   "mujoco",
                   "physics",
@@ -46,7 +46,7 @@
                 "open_issues": 432,
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14764,
+                "stars": 14765,
                 "topics": [
                   "computer-animation",
                   "game-development",
@@ -73,11 +73,11 @@
                 "id": 32222044,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-10-04T06:14:29Z",
+                "last_commit": "2026-10-05T06:06:44Z",
                 "open_issues": 8,
                 "owner": "erincatto",
                 "repo": "box2d",
-                "stars": 10396,
+                "stars": 10398,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:26.233Z"
@@ -98,7 +98,7 @@
                 "open_issues": 29,
                 "owner": "RandyGaul",
                 "repo": "cute_headers",
-                "stars": 5080,
+                "stars": 5082,
                 "topics": [
                   "audio",
                   "c",
@@ -129,10 +129,10 @@
                 "language": "C++",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-18T06:27:14Z",
-                "open_issues": 109,
+                "open_issues": 117,
                 "owner": "NVIDIA-Omniverse",
                 "repo": "PhysX",
-                "stars": 4782,
+                "stars": 4784,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:26.233Z"
@@ -153,7 +153,7 @@
                 "open_issues": 93,
                 "owner": "DanielChappuis",
                 "repo": "reactphysics3d",
-                "stars": 1775,
+                "stars": 1776,
                 "topics": [
                   "animation",
                   "collision",
@@ -182,7 +182,7 @@
                 "open_issues": 246,
                 "owner": "flexible-collision-library",
                 "repo": "fcl",
-                "stars": 1762,
+                "stars": 1760,
                 "topics": [
                   "collision",
                   "collision-detection"
@@ -273,7 +273,7 @@
                 "open_issues": 38,
                 "owner": "danfis",
                 "repo": "libccd",
-                "stars": 648,
+                "stars": 649,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:26.233Z"
@@ -294,7 +294,7 @@
                 "open_issues": 50,
                 "owner": "coal-library",
                 "repo": "coal",
-                "stars": 646,
+                "stars": 647,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:26.233Z"
@@ -585,10 +585,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-21T14:26:10Z",
-                "open_issues": 157,
+                "open_issues": 158,
                 "owner": "libigl",
                 "repo": "libigl",
-                "stars": 5096,
+                "stars": 5097,
                 "topics": [
                   "geometry-processing"
                 ]
@@ -712,7 +712,7 @@
                 "open_issues": 50,
                 "owner": "coal-library",
                 "repo": "coal",
-                "stars": 646,
+                "stars": 647,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:26.233Z"
@@ -733,7 +733,7 @@
                 "open_issues": 50,
                 "owner": "coal-library",
                 "repo": "coal",
-                "stars": 646,
+                "stars": 647,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:26.233Z"
@@ -761,7 +761,7 @@
                 "open_issues": 50,
                 "owner": "coal-library",
                 "repo": "coal",
-                "stars": 646,
+                "stars": 647,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:26.233Z"
@@ -785,11 +785,11 @@
                 "id": 24677392,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T15:20:21Z",
-                "open_issues": 698,
+                "last_commit": "2026-10-05T07:17:19Z",
+                "open_issues": 701,
                 "owner": "CGAL",
                 "repo": "cgal",
-                "stars": 6062,
+                "stars": 6064,
                 "topics": [
                   "algorithms",
                   "arrange",
@@ -920,7 +920,7 @@
                 "open_issues": 298,
                 "owner": "flann-lib",
                 "repo": "flann",
-                "stars": 2378,
+                "stars": 2377,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:26.233Z"
@@ -990,7 +990,7 @@
                 "open_issues": 246,
                 "owner": "flexible-collision-library",
                 "repo": "fcl",
-                "stars": 1762,
+                "stars": 1760,
                 "topics": [
                   "collision",
                   "collision-detection"
@@ -1144,7 +1144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T14:45:49.078Z",
+    "last_updated": "2026-10-05T18:22:16.509Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome collision detection libraries and resources",
@@ -1152,11 +1152,11 @@
       "id": 59176406,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-09-28T12:43:48Z",
+      "last_commit": "2026-10-05T13:25:02Z",
       "open_issues": 2,
       "owner": "jslee02",
       "repo": "awesome-collision-detection",
-      "stars": 1044,
+      "stars": 1045,
       "topics": [
         "awesome-list",
         "collision",
