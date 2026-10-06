@@ -17,11 +17,11 @@
                 "id": 400501136,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T10:46:17Z",
-                "open_issues": 311,
+                "last_commit": "2026-10-06T15:41:25Z",
+                "open_issues": 309,
                 "owner": "google-deepmind",
                 "repo": "mujoco",
-                "stars": 15480,
+                "stars": 15486,
                 "topics": [
                   "mujoco",
                   "physics",
@@ -128,8 +128,8 @@
                 "id": 545381143,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-18T06:27:14Z",
-                "open_issues": 117,
+                "last_commit": "2026-10-06T15:52:03Z",
+                "open_issues": 113,
                 "owner": "NVIDIA-Omniverse",
                 "repo": "PhysX",
                 "stars": 4784,
@@ -611,7 +611,7 @@
                 "open_issues": 29,
                 "owner": "SarahWeiii",
                 "repo": "CoACD",
-                "stars": 1172,
+                "stars": 1173,
                 "topics": [
                   "collision",
                   "convex",
@@ -789,7 +789,7 @@
                 "open_issues": 702,
                 "owner": "CGAL",
                 "repo": "cgal",
-                "stars": 6065,
+                "stars": 6066,
                 "topics": [
                   "algorithms",
                   "arrange",
@@ -856,7 +856,7 @@
                 "open_issues": 29,
                 "owner": "SarahWeiii",
                 "repo": "CoACD",
-                "stars": 1172,
+                "stars": 1173,
                 "topics": [
                   "collision",
                   "convex",
@@ -1144,7 +1144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:57:18.167Z",
+    "last_updated": "2026-10-06T15:54:12.696Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome collision detection libraries and resources",
