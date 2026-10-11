@@ -17,11 +17,11 @@
                 "id": 400501136,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T09:56:13Z",
+                "last_commit": "2026-10-11T12:26:29Z",
                 "open_issues": 279,
                 "owner": "google-deepmind",
                 "repo": "mujoco",
-                "stars": 15582,
+                "stars": 15603,
                 "topics": [
                   "mujoco",
                   "physics",
@@ -46,7 +46,7 @@
                 "open_issues": 433,
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14770,
+                "stars": 14771,
                 "topics": [
                   "computer-animation",
                   "game-development",
@@ -73,11 +73,11 @@
                 "id": 32222044,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-10-10T06:25:11Z",
+                "last_commit": "2026-10-11T06:10:12Z",
                 "open_issues": 9,
                 "owner": "erincatto",
                 "repo": "box2d",
-                "stars": 10408,
+                "stars": 10412,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:26.233Z"
@@ -98,7 +98,7 @@
                 "open_issues": 31,
                 "owner": "RandyGaul",
                 "repo": "cute_headers",
-                "stars": 5081,
+                "stars": 5084,
                 "topics": [
                   "audio",
                   "c",
@@ -178,7 +178,7 @@
                 "id": 5875030,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-30T17:00:00Z",
+                "last_commit": "2026-10-11T10:43:36Z",
                 "open_issues": 246,
                 "owner": "flexible-collision-library",
                 "repo": "fcl",
@@ -248,7 +248,7 @@
                 "open_issues": 56,
                 "owner": "dimforge",
                 "repo": "parry",
-                "stars": 879,
+                "stars": 881,
                 "topics": [
                   "collision-detection",
                   "gamedev",
@@ -446,7 +446,7 @@
                 "id": 37377686,
                 "language": "Pascal",
                 "license": null,
-                "last_commit": "2026-09-20T14:48:03Z",
+                "last_commit": "2026-10-11T15:02:25Z",
                 "open_issues": 6,
                 "owner": "BeRo1985",
                 "repo": "kraft",
@@ -585,10 +585,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-21T14:26:10Z",
-                "open_issues": 159,
+                "open_issues": 160,
                 "owner": "libigl",
                 "repo": "libigl",
-                "stars": 5102,
+                "stars": 5105,
                 "topics": [
                   "geometry-processing"
                 ]
@@ -789,7 +789,7 @@
                 "open_issues": 681,
                 "owner": "CGAL",
                 "repo": "cgal",
-                "stars": 6071,
+                "stars": 6072,
                 "topics": [
                   "algorithms",
                   "arrange",
@@ -986,7 +986,7 @@
                 "id": 5875030,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-30T17:00:00Z",
+                "last_commit": "2026-10-11T10:43:36Z",
                 "open_issues": 246,
                 "owner": "flexible-collision-library",
                 "repo": "fcl",
@@ -1144,7 +1144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T15:19:33.192Z",
+    "last_updated": "2026-10-11T15:36:48.949Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome collision detection libraries and resources",
@@ -1152,8 +1152,8 @@
       "id": 59176406,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-10-05T13:25:02Z",
-      "open_issues": 2,
+      "last_commit": "2026-10-10T21:12:28Z",
+      "open_issues": 1,
       "owner": "jslee02",
       "repo": "awesome-collision-detection",
       "stars": 1045,
@@ -1163,7 +1163,7 @@
         "collision-detection"
       ]
     },
-    "original_repository_sha": "60a592a8f78967860dc4830a76bfcf282e44b376",
+    "original_repository_sha": "3169dbd39be5ff0293d7106714da641e712ddaf8",
     "enhanced_repository": "enhansome/enhansome-collision-detection",
     "enhanced_repository_description": null,
     "title": "Awesome Collision Detection with stars"
