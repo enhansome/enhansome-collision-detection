@@ -23,20 +23,20 @@ A curated list of collision detection libraries, algorithms, papers, and related
 
 *Collision detection, distance query, and proximity query libraries. See also [Comparisons](COMPARISONS.md).*
 
-* 🟢 [MuJoCo](https://mujoco.org/) - Physics simulator with contact, collision, and distance queries for robotics and control. [⭐ 15.6k](https://github.com/google-deepmind/mujoco) ⭐ 15,678 | 🐛 289 | 🌐 C++ | 📅 2026-10-14
-* 🟢 [Bullet](http://bulletphysics.org) - Real-time physics SDK with collision detection for games, robotics, and simulation. [⭐ 14.8k](https://github.com/bulletphysics/bullet3) ⭐ 14,786 | 🐛 432 | 🌐 C++ | 📅 2026-10-09
-* 🟢 [Box2D](https://box2d.org) - 2D physics engine with collision, distance, ray cast, and shape cast queries. [⭐ 10.4k](https://github.com/erincatto/box2d) ⭐ 10,416 | 🐛 9 | 🌐 C | 📅 2026-10-12
-* 🟢 tinyc2 - Single-header 2D collision detection library for primitive shapes. [⭐ 5.1k](https://github.com/RandyGaul/tinyheaders) ⭐ 5,087 | 🐛 31 | 🌐 C | 📅 2026-08-05
-* 🟢 [PhysX](https://nvidia-omniverse.github.io/PhysX/) - NVIDIA physics SDK with scene queries, contact generation, and collision detection. [⭐ 4.8k](https://github.com/NVIDIA-Omniverse/PhysX) ⭐ 4,792 | 🐛 127 | 🌐 C++ | 📅 2026-10-09
-* 🟡 [ReactPhysics3d](http://www.reactphysics3d.com/) - C++ 3D physics engine with rigid body collision detection. [⭐ 1.8k](https://github.com/DanielChappuis/reactphysics3d) ⭐ 1,774 | 🐛 93 | 🌐 C++ | 📅 2025-03-28
+* 🟢 [MuJoCo](https://mujoco.org/) - Physics simulator with contact, collision, and distance queries for robotics and control. [⭐ 15.6k](https://github.com/google-deepmind/mujoco) ⭐ 15,693 | 🐛 293 | 🌐 C++ | 📅 2026-10-15
+* 🟢 [Bullet](http://bulletphysics.org) - Real-time physics SDK with collision detection for games, robotics, and simulation. [⭐ 14.8k](https://github.com/bulletphysics/bullet3) ⭐ 14,791 | 🐛 433 | 🌐 C++ | 📅 2026-10-09
+* 🟢 [Box2D](https://box2d.org) - 2D physics engine with collision, distance, ray cast, and shape cast queries. [⭐ 10.4k](https://github.com/erincatto/box2d) ⭐ 10,417 | 🐛 9 | 🌐 C | 📅 2026-10-12
+* 🟢 tinyc2 - Single-header 2D collision detection library for primitive shapes. [⭐ 5.1k](https://github.com/RandyGaul/tinyheaders) ⭐ 5,089 | 🐛 32 | 🌐 C | 📅 2026-08-05
+* 🟢 [PhysX](https://nvidia-omniverse.github.io/PhysX/) - NVIDIA physics SDK with scene queries, contact generation, and collision detection. [⭐ 4.8k](https://github.com/NVIDIA-Omniverse/PhysX) ⭐ 4,794 | 🐛 127 | 🌐 C++ | 📅 2026-10-09
+* 🟡 [ReactPhysics3d](http://www.reactphysics3d.com/) - C++ 3D physics engine with rigid body collision detection. [⭐ 1.8k](https://github.com/DanielChappuis/reactphysics3d) ⭐ 1,776 | 🐛 93 | 🌐 C++ | 📅 2025-03-28
 * 🟢 [FCL](https://github.com/flexible-collision-library/fcl) ⭐ 1,762 | 🐛 247 | 🌐 C++ | 📅 2026-10-13 - Flexible Collision Library for collision, distance, and continuous collision queries. [⭐ 1.8k](https://github.com/flexible-collision-library/fcl) ⭐ 1,762 | 🐛 247 | 🌐 C++ | 📅 2026-10-13
 * 🟢 [Parry](https://github.com/dimforge/parry) ⭐ 881 | 🐛 56 | 🌐 Rust | 📅 2026-10-06 - Rust collision detection and geometric query library from Dimforge. [⭐ 879](https://github.com/dimforge/parry) ⭐ 881 | 🐛 56 | 🌐 Rust | 📅 2026-10-06
 * 🟢 [coal (HPP-FCL)](https://github.com/coal-library/coal) ⭐ 650 | 🐛 57 | 🌐 C++ | 📅 2026-10-08 - Collision detection and distance query library derived from HPP-FCL. [⭐ 650](https://github.com/coal-library/coal) ⭐ 650 | 🐛 57 | 🌐 C++ | 📅 2026-10-08
 * 🟢 [python-fcl](https://github.com/BerkeleyAutomation/python-fcl) ⭐ 271 | 🐛 30 | 🌐 Cython | 📅 2026-04-08 - Python bindings for FCL collision, distance, and continuous collision queries. [⭐ 271](https://github.com/BerkeleyAutomation/python-fcl) ⭐ 271 | 🐛 30 | 🌐 Cython | 📅 2026-04-08
-* 🟢 [pytorch\_volumetric](https://github.com/UM-ARM-Lab/pytorch_volumetric) ⭐ 250 | 🐛 3 | 🌐 Python | 📅 2026-07-07 - PyTorch utilities for volumetric signed distance fields and differentiable collision queries. [⭐ 250](https://github.com/UM-ARM-Lab/pytorch_volumetric) ⭐ 250 | 🐛 3 | 🌐 Python | 📅 2026-07-07
+* 🟢 [pytorch\_volumetric](https://github.com/UM-ARM-Lab/pytorch_volumetric) ⭐ 251 | 🐛 3 | 🌐 Python | 📅 2026-07-07 - PyTorch utilities for volumetric signed distance fields and differentiable collision queries. [⭐ 250](https://github.com/UM-ARM-Lab/pytorch_volumetric) ⭐ 251 | 🐛 3 | 🌐 Python | 📅 2026-07-07
 * 🟢 [OpenGJK](https://www.mattiamontanari.com/opengjk/) - GJK-based minimum distance library with bindings for multiple languages. [⭐ 206](https://github.com/MattiaMontanari/openGJK) ⭐ 206 | 🐛 2 | 🌐 C++ | 📅 2026-04-30
-* 🟢 [Tight-Inclusion](https://continuous-collision-detection.github.io/tight_inclusion/) - Conservative continuous collision detection library with minimum separation support. [⭐ 161](https://github.com/Continuous-Collision-Detection/Tight-Inclusion) ⭐ 161 | 🐛 0 | 🌐 C++ | 📅 2026-08-06
-* 🟢 [Kraft](https://github.com/BeRo1985/kraft) ⭐ 132 | 🐛 6 | 🌐 Pascal | 📅 2026-10-11 - Object Pascal physics engine with discrete and optional continuous collision detection. [⭐ 132](https://github.com/BeRo1985/kraft) ⭐ 132 | 🐛 6 | 🌐 Pascal | 📅 2026-10-11
+* 🟢 [Tight-Inclusion](https://continuous-collision-detection.github.io/tight_inclusion/) - Conservative continuous collision detection library with minimum separation support. [⭐ 161](https://github.com/Continuous-Collision-Detection/Tight-Inclusion) ⭐ 160 | 🐛 0 | 🌐 C++ | 📅 2026-08-06
+* 🟢 [Kraft](https://github.com/BeRo1985/kraft) ⭐ 133 | 🐛 6 | 🌐 Pascal | 📅 2026-10-11 - Object Pascal physics engine with discrete and optional continuous collision detection. [⭐ 132](https://github.com/BeRo1985/kraft) ⭐ 133 | 🐛 6 | 🌐 Pascal | 📅 2026-10-11
 * [ODE](http://www.ode.org/) - Open Dynamics Engine with rigid body simulation and collision detection. \[[bitbucket](https://bitbucket.org/odedevs/ode)]
 
 > Some libraries, such as ODE and Bullet, are physics engines that can also be used as collision detection libraries.
@@ -63,9 +63,9 @@ A curated list of collision detection libraries, algorithms, papers, and related
 
 *Geometry processing libraries useful for collision-ready meshes and convex approximations.*
 
-* 🟢 [libigl](https://libigl.github.io/) - A simple C++ geometry processing library. [⭐ 5.1k](https://github.com/libigl/libigl) ⭐ 5,104 | 🐛 160 | 🌐 C++ | 📅 2026-09-21
+* 🟢 [libigl](https://libigl.github.io/) - A simple C++ geometry processing library. [⭐ 5.1k](https://github.com/libigl/libigl) ⭐ 5,104 | 🐛 161 | 🌐 C++ | 📅 2026-09-21
 * 🟢 [CoACD](https://colin97.github.io/CoACD/) - Approximate convex decomposition for collision-aware mesh approximation. [⭐ 1.2k](https://github.com/SarahWeiii/CoACD) ⭐ 1,183 | 🐛 30 | 🌐 C++ | 📅 2026-09-23
-* 🟢 cinolib - A generic programming header only C++ library for processing polygonal and polyhedral meshes. [⭐ 1.1k](https://github.com/mlivesu/cinolib) ⭐ 1,116 | 🐛 5 | 🌐 C++ | 📅 2026-09-11
+* 🟢 cinolib - A generic programming header only C++ library for processing polygonal and polyhedral meshes. [⭐ 1.1k](https://github.com/mlivesu/cinolib) ⭐ 1,115 | 🐛 5 | 🌐 C++ | 📅 2026-09-11
 
 <details>
 <summary>Inactive (1): archived or no commits for 3+ years</summary>
@@ -90,8 +90,8 @@ A curated list of collision detection libraries, algorithms, papers, and related
 
 #### Triangle-triangle Test
 
-* Faster Triangle-Triangle Intersection Tests (2006), O. Devillers et al. \[[pdf](https://hal.inria.fr/inria-00072100/document), [code](https://github.com/CGAL/cgal/blob/076c982dbf37cc244206fd7962e73360fb17ea47/Intersections_3/include/CGAL/Triangle_3_Triangle_3_do_intersect.h) ⭐ 6,078 | 🐛 663 | 🌐 C++ | 📅 2026-10-14]
-* A Fast Triangle-Triangle Intersecion Test (1997), T. Muller. \[[pdf](http://web.stanford.edu/class/cs277/resources/papers/Moller1997b.pdf), [code](https://github.com/erich666/jgt-code/blob/master/Volume_02/Number_2/Moller1997b/tritri_isectline.c) ⭐ 497 | 🐛 0 | 🌐 MATLAB | 📅 2023-08-28]
+* Faster Triangle-Triangle Intersection Tests (2006), O. Devillers et al. \[[pdf](https://hal.inria.fr/inria-00072100/document), [code](https://github.com/CGAL/cgal/blob/076c982dbf37cc244206fd7962e73360fb17ea47/Intersections_3/include/CGAL/Triangle_3_Triangle_3_do_intersect.h) ⭐ 6,078 | 🐛 670 | 🌐 C++ | 📅 2026-10-15]
+* A Fast Triangle-Triangle Intersecion Test (1997), T. Muller. \[[pdf](http://web.stanford.edu/class/cs277/resources/papers/Moller1997b.pdf), [code](https://github.com/erich666/jgt-code/blob/master/Volume_02/Number_2/Moller1997b/tritri_isectline.c) ⭐ 496 | 🐛 0 | 🌐 MATLAB | 📅 2023-08-28]
 * A faster triangle-to-triangle intersection test algorithm (2013), L.-Y. Wei.
 * Efficient triangle-triangle intersection test for OBB-based collision detection (2009), J.-W. Chang et al. \[[pdf](http://ldc.usb.ve/~vtheok/cursos/ci6322/escogidos/Efficient%20triangle%E2%80%93triangleintersectiontestforOBB.pdf)]
 * A fast triangle to triangle intersection test for collision detection (2006), O. Tropp et al. \[[pdf](http://webee.technion.ac.il/~ayellet/Ps/TroppTalShimshoni.pdf)]
@@ -108,7 +108,7 @@ A curated list of collision detection libraries, algorithms, papers, and related
 
 #### Proximity Query / Signed Distance Field
 
-* Voxblox: Building 3d signed distance fields for planning (2016), H Oleynikova et al. \[[pdf](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/128028/eth-50485-01.pdf), [code](https://github.com/ethz-asl/voxblox) ⭐ 1,674 | 🐛 77 | 🌐 C++ | 📅 2024-07-01]
+* Voxblox: Building 3d signed distance fields for planning (2016), H Oleynikova et al. \[[pdf](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/128028/eth-50485-01.pdf), [code](https://github.com/ethz-asl/voxblox) ⭐ 1,675 | 🐛 77 | 🌐 C++ | 📅 2024-07-01]
 * Local Optimization for Robust Signed Distance Field Collision (2020), [M. Macklin](http://blog.mmacklin.com/) et al. \[[pdf](https://mmacklin.com/sdfcontact.pdf), [slides](https://mmacklin.com/sdfcontact_slides.pdf), [video](https://youtu.be/icU6Bm-HZ-E)]
 * Hierarchical hp-Adaptive Signed Distance Fields (2016), D. Koschier et al. \[[pdf](https://pdfs.semanticscholar.org/0dac/60f8ebf218a5510799cab4c74c5bb1f276e9.pdf), [video](https://youtu.be/x_Iq2yM4FcA)]
 * Signed distance fields for polygon soup meshes (2014), H. Xu and Jernej Barbic. \[[pdf](https://pdfs.semanticscholar.org/6247/71efeaff92c9826b9fa176e8c76a2def1d9f.pdf)]
@@ -180,7 +180,7 @@ A curated list of collision detection libraries, algorithms, papers, and related
 
 *Related curated lists and collections.*
 
-* 🟢 [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries) ⭐ 3,082 | 🐛 4 | 🌐 Python | 📅 2026-10-13 - This is a list of various libraries and software for robotics. It's also attempting to provide some comparisons for selected libraries and software. [⭐ 3.1k](https://github.com/jslee02/awesome-robotics-libraries) ⭐ 3,082 | 🐛 4 | 🌐 Python | 📅 2026-10-13
+* 🟢 [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries) ⭐ 3,083 | 🐛 4 | 🌐 Python | 📅 2026-10-13 - This is a list of various libraries and software for robotics. It's also attempting to provide some comparisons for selected libraries and software. [⭐ 3.1k](https://github.com/jslee02/awesome-robotics-libraries) ⭐ 3,083 | 🐛 4 | 🌐 Python | 📅 2026-10-13
 
 ## [Contributing](#contents)
 
@@ -202,4 +202,4 @@ Contributions are very welcome! Please read the [contribution guidelines](https:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._

@@ -15,11 +15,11 @@
             "id": 400501136,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T14:19:15Z",
-            "open_issues": 289,
+            "last_commit": "2026-10-15T09:49:59Z",
+            "open_issues": 293,
             "owner": "google-deepmind",
             "repo": "mujoco",
-            "stars": 15678,
+            "stars": 15693,
             "topics": [
               "mujoco",
               "physics",
@@ -41,10 +41,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-09T21:51:41Z",
-            "open_issues": 432,
+            "open_issues": 433,
             "owner": "bulletphysics",
             "repo": "bullet3",
-            "stars": 14786,
+            "stars": 14791,
             "topics": [
               "computer-animation",
               "game-development",
@@ -75,7 +75,7 @@
             "open_issues": 9,
             "owner": "erincatto",
             "repo": "box2d",
-            "stars": 10416,
+            "stars": 10417,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:26.233Z"
@@ -93,10 +93,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-08-05T00:10:44Z",
-            "open_issues": 31,
+            "open_issues": 32,
             "owner": "RandyGaul",
             "repo": "cute_headers",
-            "stars": 5087,
+            "stars": 5089,
             "topics": [
               "audio",
               "c",
@@ -130,7 +130,7 @@
             "open_issues": 127,
             "owner": "NVIDIA-Omniverse",
             "repo": "PhysX",
-            "stars": 4792,
+            "stars": 4794,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:26.233Z"
@@ -151,7 +151,7 @@
             "open_issues": 93,
             "owner": "DanielChappuis",
             "repo": "reactphysics3d",
-            "stars": 1774,
+            "stars": 1776,
             "topics": [
               "animation",
               "collision",
@@ -271,7 +271,7 @@
             "open_issues": 3,
             "owner": "UM-ARM-Lab",
             "repo": "pytorch_volumetric",
-            "stars": 250,
+            "stars": 251,
             "topics": [
               "chamfer-distance",
               "kinematics",
@@ -338,7 +338,7 @@
             "open_issues": 0,
             "owner": "Continuous-Collision-Detection",
             "repo": "Tight-Inclusion",
-            "stars": 161,
+            "stars": 160,
             "topics": [
               "ccd",
               "collision-detection"
@@ -362,7 +362,7 @@
             "open_issues": 6,
             "owner": "BeRo1985",
             "repo": "kraft",
-            "stars": 132,
+            "stars": 133,
             "topics": [
               "3d",
               "delphi",
@@ -582,7 +582,7 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-09-21T14:26:10Z",
-            "open_issues": 160,
+            "open_issues": 161,
             "owner": "libigl",
             "repo": "libigl",
             "stars": 5104,
@@ -633,7 +633,7 @@
             "open_issues": 5,
             "owner": "mlivesu",
             "repo": "cinolib",
-            "stars": 1116,
+            "stars": 1115,
             "topics": [
               "computer-graphics",
               "geodesic",
@@ -784,8 +784,8 @@
                 "id": 24677392,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-14T11:57:42Z",
-                "open_issues": 663,
+                "last_commit": "2026-10-15T09:37:44Z",
+                "open_issues": 670,
                 "owner": "CGAL",
                 "repo": "cgal",
                 "stars": 6078,
@@ -827,7 +827,7 @@
                 "open_issues": 0,
                 "owner": "erich666",
                 "repo": "jgt-code",
-                "stars": 497,
+                "stars": 496,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:26.233Z"
@@ -887,7 +887,7 @@
                 "open_issues": 77,
                 "owner": "ethz-asl",
                 "repo": "voxblox",
-                "stars": 1674,
+                "stars": 1675,
                 "topics": [
                   "mapping",
                   "robotics",
@@ -1143,7 +1143,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T14:29:02.198Z",
+    "last_updated": "2026-10-15T14:08:12.530Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome collision detection libraries and resources",
