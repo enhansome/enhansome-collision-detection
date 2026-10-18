@@ -15,11 +15,11 @@
             "id": 400501136,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-17T10:24:43Z",
-            "open_issues": 291,
+            "last_commit": "2026-10-18T12:46:35Z",
+            "open_issues": 297,
             "owner": "google-deepmind",
             "repo": "mujoco",
-            "stars": 15726,
+            "stars": 15735,
             "topics": [
               "mujoco",
               "physics",
@@ -41,10 +41,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-09T21:51:41Z",
-            "open_issues": 434,
+            "open_issues": 435,
             "owner": "bulletphysics",
             "repo": "bullet3",
-            "stars": 14800,
+            "stars": 14802,
             "topics": [
               "computer-animation",
               "game-development",
@@ -71,11 +71,11 @@
             "id": 32222044,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-17T06:36:12Z",
+            "last_commit": "2026-10-18T06:31:34Z",
             "open_issues": 9,
             "owner": "erincatto",
             "repo": "box2d",
-            "stars": 10420,
+            "stars": 10423,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:26.233Z"
@@ -96,7 +96,7 @@
             "open_issues": 32,
             "owner": "RandyGaul",
             "repo": "cute_headers",
-            "stars": 5090,
+            "stars": 5091,
             "topics": [
               "audio",
               "c",
@@ -130,7 +130,7 @@
             "open_issues": 124,
             "owner": "NVIDIA-Omniverse",
             "repo": "PhysX",
-            "stars": 4797,
+            "stars": 4803,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:26.233Z"
@@ -204,7 +204,7 @@
             "open_issues": 58,
             "owner": "dimforge",
             "repo": "parry",
-            "stars": 882,
+            "stars": 883,
             "topics": [
               "collision-detection",
               "gamedev",
@@ -271,7 +271,7 @@
             "open_issues": 3,
             "owner": "UM-ARM-Lab",
             "repo": "pytorch_volumetric",
-            "stars": 251,
+            "stars": 252,
             "topics": [
               "chamfer-distance",
               "kinematics",
@@ -582,7 +582,7 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-09-21T14:26:10Z",
-            "open_issues": 161,
+            "open_issues": 162,
             "owner": "libigl",
             "repo": "libigl",
             "stars": 5105,
@@ -608,7 +608,7 @@
             "open_issues": 30,
             "owner": "SarahWeiii",
             "repo": "CoACD",
-            "stars": 1188,
+            "stars": 1189,
             "topics": [
               "collision",
               "convex",
@@ -784,8 +784,8 @@
                 "id": 24677392,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-16T15:56:59Z",
-                "open_issues": 688,
+                "last_commit": "2026-10-17T18:03:06Z",
+                "open_issues": 687,
                 "owner": "CGAL",
                 "repo": "cgal",
                 "stars": 6081,
@@ -855,7 +855,7 @@
                 "open_issues": 30,
                 "owner": "SarahWeiii",
                 "repo": "CoACD",
-                "stars": 1188,
+                "stars": 1189,
                 "topics": [
                   "collision",
                   "convex",
@@ -1143,7 +1143,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T12:55:56.217Z",
+    "last_updated": "2026-10-18T13:13:53.746Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome collision detection libraries and resources",
