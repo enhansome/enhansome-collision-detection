@@ -15,11 +15,11 @@
             "id": 400501136,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-24T12:30:40Z",
-            "open_issues": 290,
+            "last_commit": "2026-10-25T10:22:25Z",
+            "open_issues": 294,
             "owner": "google-deepmind",
             "repo": "mujoco",
-            "stars": 15849,
+            "stars": 15870,
             "topics": [
               "mujoco",
               "physics",
@@ -44,7 +44,7 @@
             "open_issues": 436,
             "owner": "bulletphysics",
             "repo": "bullet3",
-            "stars": 14813,
+            "stars": 14816,
             "topics": [
               "computer-animation",
               "game-development",
@@ -75,7 +75,7 @@
             "open_issues": 7,
             "owner": "erincatto",
             "repo": "box2d",
-            "stars": 10448,
+            "stars": 10450,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:26.233Z"
@@ -96,7 +96,7 @@
             "open_issues": 32,
             "owner": "RandyGaul",
             "repo": "cute_headers",
-            "stars": 5091,
+            "stars": 5093,
             "topics": [
               "audio",
               "c",
@@ -126,11 +126,11 @@
             "id": 545381143,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-22T20:28:34Z",
-            "open_issues": 129,
+            "last_commit": "2026-10-24T20:55:43Z",
+            "open_issues": 131,
             "owner": "NVIDIA-Omniverse",
             "repo": "PhysX",
-            "stars": 4809,
+            "stars": 4811,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:26.233Z"
@@ -180,7 +180,7 @@
             "open_issues": 246,
             "owner": "flexible-collision-library",
             "repo": "fcl",
-            "stars": 1766,
+            "stars": 1767,
             "topics": [
               "collision",
               "collision-detection"
@@ -303,7 +303,7 @@
             "open_issues": 2,
             "owner": "MattiaMontanari",
             "repo": "openGJK",
-            "stars": 208,
+            "stars": 209,
             "topics": [
               "algorithm",
               "c",
@@ -358,7 +358,7 @@
             "id": 37377686,
             "language": "Pascal",
             "license": null,
-            "last_commit": "2026-10-24T10:23:04Z",
+            "last_commit": "2026-10-24T15:26:15Z",
             "open_issues": 6,
             "owner": "BeRo1985",
             "repo": "kraft",
@@ -585,7 +585,7 @@
             "open_issues": 159,
             "owner": "libigl",
             "repo": "libigl",
-            "stars": 5111,
+            "stars": 5112,
             "topics": [
               "geometry-processing"
             ]
@@ -785,7 +785,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T12:12:54Z",
-                "open_issues": 700,
+                "open_issues": 702,
                 "owner": "CGAL",
                 "repo": "cgal",
                 "stars": 6088,
@@ -989,7 +989,7 @@
                 "open_issues": 246,
                 "owner": "flexible-collision-library",
                 "repo": "fcl",
-                "stars": 1766,
+                "stars": 1767,
                 "topics": [
                   "collision",
                   "collision-detection"
@@ -1143,7 +1143,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T13:17:20.216Z",
+    "last_updated": "2026-10-25T13:41:15.932Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome collision detection libraries and resources",
