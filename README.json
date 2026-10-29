@@ -15,11 +15,11 @@
             "id": 400501136,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-28T15:57:42Z",
-            "open_issues": 292,
+            "last_commit": "2026-10-29T15:24:38Z",
+            "open_issues": 290,
             "owner": "google-deepmind",
             "repo": "mujoco",
-            "stars": 15937,
+            "stars": 15964,
             "topics": [
               "mujoco",
               "physics",
@@ -44,7 +44,7 @@
             "open_issues": 437,
             "owner": "bulletphysics",
             "repo": "bullet3",
-            "stars": 14822,
+            "stars": 14827,
             "topics": [
               "computer-animation",
               "game-development",
@@ -72,10 +72,10 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-10-24T01:46:02Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "erincatto",
             "repo": "box2d",
-            "stars": 10455,
+            "stars": 10459,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:26.233Z"
@@ -201,7 +201,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-06T07:44:18Z",
-            "open_issues": 58,
+            "open_issues": 59,
             "owner": "dimforge",
             "repo": "parry",
             "stars": 886,
@@ -608,7 +608,7 @@
             "open_issues": 30,
             "owner": "SarahWeiii",
             "repo": "CoACD",
-            "stars": 1201,
+            "stars": 1202,
             "topics": [
               "collision",
               "convex",
@@ -784,11 +784,11 @@
                 "id": 24677392,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-27T13:42:44Z",
-                "open_issues": 708,
+                "last_commit": "2026-10-28T16:29:44Z",
+                "open_issues": 712,
                 "owner": "CGAL",
                 "repo": "cgal",
-                "stars": 6095,
+                "stars": 6096,
                 "topics": [
                   "algorithms",
                   "arrange",
@@ -855,7 +855,7 @@
                 "open_issues": 30,
                 "owner": "SarahWeiii",
                 "repo": "CoACD",
-                "stars": 1201,
+                "stars": 1202,
                 "topics": [
                   "collision",
                   "convex",
@@ -1143,7 +1143,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T15:58:21.695Z",
+    "last_updated": "2026-10-29T16:03:17.118Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome collision detection libraries and resources",
@@ -1155,7 +1155,7 @@
       "open_issues": 4,
       "owner": "jslee02",
       "repo": "awesome-collision-detection",
-      "stars": 1045,
+      "stars": 1046,
       "topics": [
         "awesome-list",
         "collision",
