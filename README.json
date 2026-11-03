@@ -15,11 +15,11 @@
             "id": 400501136,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-02T19:14:19Z",
-            "open_issues": 298,
+            "last_commit": "2026-11-03T16:54:11Z",
+            "open_issues": 296,
             "owner": "google-deepmind",
             "repo": "mujoco",
-            "stars": 16038,
+            "stars": 16047,
             "topics": [
               "mujoco",
               "physics",
@@ -41,10 +41,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-09T21:51:41Z",
-            "open_issues": 437,
+            "open_issues": 438,
             "owner": "bulletphysics",
             "repo": "bullet3",
-            "stars": 14841,
+            "stars": 14843,
             "topics": [
               "computer-animation",
               "game-development",
@@ -72,10 +72,10 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-10-30T05:07:15Z",
-            "open_issues": 9,
+            "open_issues": 8,
             "owner": "erincatto",
             "repo": "box2d",
-            "stars": 10467,
+            "stars": 10469,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:26.233Z"
@@ -92,8 +92,8 @@
             "id": 60436054,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-05T00:10:44Z",
-            "open_issues": 33,
+            "last_commit": "2026-11-02T19:38:50Z",
+            "open_issues": 32,
             "owner": "RandyGaul",
             "repo": "cute_headers",
             "stars": 5098,
@@ -127,10 +127,10 @@
             "language": "C++",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-31T18:33:59Z",
-            "open_issues": 129,
+            "open_issues": 130,
             "owner": "NVIDIA-Omniverse",
             "repo": "PhysX",
-            "stars": 4824,
+            "stars": 4826,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:26.233Z"
@@ -201,7 +201,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-06T07:44:18Z",
-            "open_issues": 60,
+            "open_issues": 61,
             "owner": "dimforge",
             "repo": "parry",
             "stars": 887,
@@ -225,11 +225,11 @@
             "id": 27596602,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-02T13:43:42Z",
-            "open_issues": 55,
+            "last_commit": "2026-11-03T13:08:38Z",
+            "open_issues": 53,
             "owner": "coal-library",
             "repo": "coal",
-            "stars": 660,
+            "stars": 661,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:26.233Z"
@@ -585,7 +585,7 @@
             "open_issues": 161,
             "owner": "libigl",
             "repo": "libigl",
-            "stars": 5120,
+            "stars": 5121,
             "topics": [
               "geometry-processing"
             ]
@@ -608,7 +608,7 @@
             "open_issues": 30,
             "owner": "SarahWeiii",
             "repo": "CoACD",
-            "stars": 1206,
+            "stars": 1207,
             "topics": [
               "collision",
               "convex",
@@ -707,11 +707,11 @@
                 "id": 27596602,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-02T13:43:42Z",
-                "open_issues": 55,
+                "last_commit": "2026-11-03T13:08:38Z",
+                "open_issues": 53,
                 "owner": "coal-library",
                 "repo": "coal",
-                "stars": 660,
+                "stars": 661,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:26.233Z"
@@ -728,11 +728,11 @@
                 "id": 27596602,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-02T13:43:42Z",
-                "open_issues": 55,
+                "last_commit": "2026-11-03T13:08:38Z",
+                "open_issues": 53,
                 "owner": "coal-library",
                 "repo": "coal",
-                "stars": 660,
+                "stars": 661,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:26.233Z"
@@ -756,11 +756,11 @@
                 "id": 27596602,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-02T13:43:42Z",
-                "open_issues": 55,
+                "last_commit": "2026-11-03T13:08:38Z",
+                "open_issues": 53,
                 "owner": "coal-library",
                 "repo": "coal",
-                "stars": 660,
+                "stars": 661,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:26.233Z"
@@ -784,11 +784,11 @@
                 "id": 24677392,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-02T08:34:59Z",
-                "open_issues": 709,
+                "last_commit": "2026-11-03T16:19:42Z",
+                "open_issues": 706,
                 "owner": "CGAL",
                 "repo": "cgal",
-                "stars": 6105,
+                "stars": 6106,
                 "topics": [
                   "algorithms",
                   "arrange",
@@ -855,7 +855,7 @@
                 "open_issues": 30,
                 "owner": "SarahWeiii",
                 "repo": "CoACD",
-                "stars": 1206,
+                "stars": 1207,
                 "topics": [
                   "collision",
                   "convex",
@@ -1143,7 +1143,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T19:26:30.967Z",
+    "last_updated": "2026-11-03T16:59:21.066Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome collision detection libraries and resources",
