@@ -15,11 +15,11 @@
             "id": 400501136,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T16:40:43Z",
-            "open_issues": 297,
+            "last_commit": "2026-11-07T12:32:50Z",
+            "open_issues": 305,
             "owner": "google-deepmind",
             "repo": "mujoco",
-            "stars": 16081,
+            "stars": 16095,
             "topics": [
               "mujoco",
               "physics",
@@ -41,7 +41,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-09T21:51:41Z",
-            "open_issues": 439,
+            "open_issues": 440,
             "owner": "bulletphysics",
             "repo": "bullet3",
             "stars": 14841,
@@ -75,7 +75,7 @@
             "open_issues": 8,
             "owner": "erincatto",
             "repo": "box2d",
-            "stars": 10475,
+            "stars": 10477,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:26.233Z"
@@ -582,10 +582,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-10-29T17:01:51Z",
-            "open_issues": 162,
+            "open_issues": 163,
             "owner": "libigl",
             "repo": "libigl",
-            "stars": 5119,
+            "stars": 5120,
             "topics": [
               "geometry-processing"
             ]
@@ -608,7 +608,7 @@
             "open_issues": 31,
             "owner": "SarahWeiii",
             "repo": "CoACD",
-            "stars": 1208,
+            "stars": 1210,
             "topics": [
               "collision",
               "convex",
@@ -788,7 +788,7 @@
                 "open_issues": 704,
                 "owner": "CGAL",
                 "repo": "cgal",
-                "stars": 6112,
+                "stars": 6117,
                 "topics": [
                   "algorithms",
                   "arrange",
@@ -855,7 +855,7 @@
                 "open_issues": 31,
                 "owner": "SarahWeiii",
                 "repo": "CoACD",
-                "stars": 1208,
+                "stars": 1210,
                 "topics": [
                   "collision",
                   "convex",
@@ -1143,7 +1143,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T16:43:27.416Z",
+    "last_updated": "2026-11-07T15:38:04.148Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome collision detection libraries and resources",
