@@ -15,11 +15,11 @@
             "id": 400501136,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T12:32:50Z",
-            "open_issues": 305,
+            "last_commit": "2026-11-07T17:07:40Z",
+            "open_issues": 309,
             "owner": "google-deepmind",
             "repo": "mujoco",
-            "stars": 16095,
+            "stars": 16234,
             "topics": [
               "mujoco",
               "physics",
@@ -41,10 +41,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-09T21:51:41Z",
-            "open_issues": 440,
+            "open_issues": 444,
             "owner": "bulletphysics",
             "repo": "bullet3",
-            "stars": 14841,
+            "stars": 14843,
             "topics": [
               "computer-animation",
               "game-development",
@@ -72,10 +72,10 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-10-30T05:07:15Z",
-            "open_issues": 8,
+            "open_issues": 10,
             "owner": "erincatto",
             "repo": "box2d",
-            "stars": 10477,
+            "stars": 10479,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:26.233Z"
@@ -96,7 +96,7 @@
             "open_issues": 30,
             "owner": "RandyGaul",
             "repo": "cute_headers",
-            "stars": 5100,
+            "stars": 5099,
             "topics": [
               "audio",
               "c",
@@ -127,10 +127,10 @@
             "language": "C++",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-31T18:33:59Z",
-            "open_issues": 130,
+            "open_issues": 131,
             "owner": "NVIDIA-Omniverse",
             "repo": "PhysX",
-            "stars": 4833,
+            "stars": 4836,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:26.233Z"
@@ -151,7 +151,7 @@
             "open_issues": 93,
             "owner": "DanielChappuis",
             "repo": "reactphysics3d",
-            "stars": 1776,
+            "stars": 1774,
             "topics": [
               "animation",
               "collision",
@@ -180,7 +180,7 @@
             "open_issues": 246,
             "owner": "flexible-collision-library",
             "repo": "fcl",
-            "stars": 1772,
+            "stars": 1773,
             "topics": [
               "collision",
               "collision-detection"
@@ -397,7 +397,7 @@
                 "open_issues": 12,
                 "owner": "RandyGaul",
                 "repo": "qu3e",
-                "stars": 993,
+                "stars": 992,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:26.233Z"
@@ -585,7 +585,7 @@
             "open_issues": 163,
             "owner": "libigl",
             "repo": "libigl",
-            "stars": 5120,
+            "stars": 5121,
             "topics": [
               "geometry-processing"
             ]
@@ -785,10 +785,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-05T16:32:49Z",
-                "open_issues": 704,
+                "open_issues": 705,
                 "owner": "CGAL",
                 "repo": "cgal",
-                "stars": 6117,
+                "stars": 6119,
                 "topics": [
                   "algorithms",
                   "arrange",
@@ -989,7 +989,7 @@
                 "open_issues": 246,
                 "owner": "flexible-collision-library",
                 "repo": "fcl",
-                "stars": 1772,
+                "stars": 1773,
                 "topics": [
                   "collision",
                   "collision-detection"
@@ -1143,7 +1143,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T15:38:04.148Z",
+    "last_updated": "2026-11-08T15:55:59.752Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome collision detection libraries and resources",
