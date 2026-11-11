@@ -15,11 +15,11 @@
             "id": 400501136,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T10:30:27Z",
-            "open_issues": 326,
+            "last_commit": "2026-11-11T15:48:20Z",
+            "open_issues": 376,
             "owner": "google-deepmind",
             "repo": "mujoco",
-            "stars": 17238,
+            "stars": 17606,
             "topics": [
               "mujoco",
               "physics",
@@ -44,7 +44,7 @@
             "open_issues": 444,
             "owner": "bulletphysics",
             "repo": "bullet3",
-            "stars": 14848,
+            "stars": 14851,
             "topics": [
               "computer-animation",
               "game-development",
@@ -75,7 +75,7 @@
             "open_issues": 10,
             "owner": "erincatto",
             "repo": "box2d",
-            "stars": 10485,
+            "stars": 10487,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:26.233Z"
@@ -130,7 +130,7 @@
             "open_issues": 136,
             "owner": "NVIDIA-Omniverse",
             "repo": "PhysX",
-            "stars": 4841,
+            "stars": 4844,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:26.233Z"
@@ -204,7 +204,7 @@
             "open_issues": 65,
             "owner": "dimforge",
             "repo": "parry",
-            "stars": 890,
+            "stars": 891,
             "topics": [
               "collision-detection",
               "gamedev",
@@ -226,7 +226,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-11-05T09:58:12Z",
-            "open_issues": 51,
+            "open_issues": 54,
             "owner": "coal-library",
             "repo": "coal",
             "stars": 665,
@@ -708,7 +708,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-05T09:58:12Z",
-                "open_issues": 51,
+                "open_issues": 54,
                 "owner": "coal-library",
                 "repo": "coal",
                 "stars": 665,
@@ -729,7 +729,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-05T09:58:12Z",
-                "open_issues": 51,
+                "open_issues": 54,
                 "owner": "coal-library",
                 "repo": "coal",
                 "stars": 665,
@@ -757,7 +757,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-05T09:58:12Z",
-                "open_issues": 51,
+                "open_issues": 54,
                 "owner": "coal-library",
                 "repo": "coal",
                 "stars": 665,
@@ -785,10 +785,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-05T16:32:49Z",
-                "open_issues": 718,
+                "open_issues": 720,
                 "owner": "CGAL",
                 "repo": "cgal",
-                "stars": 6123,
+                "stars": 6124,
                 "topics": [
                   "algorithms",
                   "arrange",
@@ -887,7 +887,7 @@
                 "open_issues": 77,
                 "owner": "ethz-asl",
                 "repo": "voxblox",
-                "stars": 1681,
+                "stars": 1683,
                 "topics": [
                   "mapping",
                   "robotics",
@@ -1143,7 +1143,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T16:59:23.435Z",
+    "last_updated": "2026-11-11T17:03:58.032Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome collision detection libraries and resources",
@@ -1155,7 +1155,7 @@
       "open_issues": 4,
       "owner": "jslee02",
       "repo": "awesome-collision-detection",
-      "stars": 1046,
+      "stars": 1047,
       "topics": [
         "awesome-list",
         "collision",
