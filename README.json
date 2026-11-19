@@ -15,11 +15,11 @@
             "id": 400501136,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T16:52:09Z",
+            "last_commit": "2026-11-19T15:49:33Z",
             "open_issues": 421,
             "owner": "google-deepmind",
             "repo": "mujoco",
-            "stars": 18284,
+            "stars": 18320,
             "topics": [
               "mujoco",
               "physics",
@@ -44,7 +44,7 @@
             "open_issues": 444,
             "owner": "bulletphysics",
             "repo": "bullet3",
-            "stars": 14874,
+            "stars": 14877,
             "topics": [
               "computer-animation",
               "game-development",
@@ -75,7 +75,7 @@
             "open_issues": 10,
             "owner": "erincatto",
             "repo": "box2d",
-            "stars": 10504,
+            "stars": 10505,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:26.233Z"
@@ -96,7 +96,7 @@
             "open_issues": 30,
             "owner": "RandyGaul",
             "repo": "cute_headers",
-            "stars": 5103,
+            "stars": 5102,
             "topics": [
               "audio",
               "c",
@@ -126,7 +126,7 @@
             "id": 545381143,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-18T17:09:29Z",
+            "last_commit": "2026-11-18T18:56:31Z",
             "open_issues": 143,
             "owner": "NVIDIA-Omniverse",
             "repo": "PhysX",
@@ -201,7 +201,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-06T07:44:18Z",
-            "open_issues": 72,
+            "open_issues": 73,
             "owner": "dimforge",
             "repo": "parry",
             "stars": 893,
@@ -229,7 +229,7 @@
             "open_issues": 58,
             "owner": "coal-library",
             "repo": "coal",
-            "stars": 667,
+            "stars": 668,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:26.233Z"
@@ -582,7 +582,7 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-10-29T17:01:51Z",
-            "open_issues": 165,
+            "open_issues": 168,
             "owner": "libigl",
             "repo": "libigl",
             "stars": 5130,
@@ -711,7 +711,7 @@
                 "open_issues": 58,
                 "owner": "coal-library",
                 "repo": "coal",
-                "stars": 667,
+                "stars": 668,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:26.233Z"
@@ -732,7 +732,7 @@
                 "open_issues": 58,
                 "owner": "coal-library",
                 "repo": "coal",
-                "stars": 667,
+                "stars": 668,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:26.233Z"
@@ -760,7 +760,7 @@
                 "open_issues": 58,
                 "owner": "coal-library",
                 "repo": "coal",
-                "stars": 667,
+                "stars": 668,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:26.233Z"
@@ -784,11 +784,11 @@
                 "id": 24677392,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-14T18:19:31Z",
+                "last_commit": "2026-11-19T08:40:36Z",
                 "open_issues": 708,
                 "owner": "CGAL",
                 "repo": "cgal",
-                "stars": 6129,
+                "stars": 6132,
                 "topics": [
                   "algorithms",
                   "arrange",
@@ -1143,7 +1143,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T17:59:18.567Z",
+    "last_updated": "2026-11-19T18:12:22.826Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome collision detection libraries and resources",
@@ -1155,7 +1155,7 @@
       "open_issues": 4,
       "owner": "jslee02",
       "repo": "awesome-collision-detection",
-      "stars": 1047,
+      "stars": 1048,
       "topics": [
         "awesome-list",
         "collision",
