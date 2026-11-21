@@ -15,11 +15,11 @@
             "id": 400501136,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T15:53:47Z",
-            "open_issues": 424,
+            "last_commit": "2026-11-21T15:39:30Z",
+            "open_issues": 429,
             "owner": "google-deepmind",
             "repo": "mujoco",
-            "stars": 18349,
+            "stars": 18366,
             "topics": [
               "mujoco",
               "physics",
@@ -44,7 +44,7 @@
             "open_issues": 444,
             "owner": "bulletphysics",
             "repo": "bullet3",
-            "stars": 14878,
+            "stars": 14883,
             "topics": [
               "computer-animation",
               "game-development",
@@ -71,11 +71,11 @@
             "id": 32222044,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-11-17T04:46:03Z",
+            "last_commit": "2026-11-21T06:49:20Z",
             "open_issues": 12,
             "owner": "erincatto",
             "repo": "box2d",
-            "stars": 10508,
+            "stars": 10512,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:26.233Z"
@@ -130,8 +130,37 @@
             "open_issues": 143,
             "owner": "NVIDIA-Omniverse",
             "repo": "PhysX",
-            "stars": 4858,
+            "stars": 4860,
             "topics": []
+          },
+          "first_seen": "2026-08-28T20:49:26.233Z"
+        },
+        {
+          "node_type": "item",
+          "title": "🟡 ReactPhysics3d",
+          "description": "C++ 3D physics engine with rigid body collision detection. ⭐ 1.8k",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open source C++ physics engine library in 3D",
+            "homepage": "http://www.reactphysics3d.com",
+            "id": 10272113,
+            "language": "C++",
+            "license": "Zlib",
+            "last_commit": "2025-03-28T06:33:07Z",
+            "open_issues": 93,
+            "owner": "DanielChappuis",
+            "repo": "reactphysics3d",
+            "stars": 1776,
+            "topics": [
+              "animation",
+              "collision",
+              "collision-detection",
+              "game-development",
+              "physics-engine",
+              "reactphysics3d",
+              "simulation"
+            ]
           },
           "first_seen": "2026-08-28T20:49:26.233Z"
         },
@@ -161,35 +190,6 @@
         },
         {
           "node_type": "item",
-          "title": "🟡 ReactPhysics3d",
-          "description": "C++ 3D physics engine with rigid body collision detection. ⭐ 1.8k",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Open source C++ physics engine library in 3D",
-            "homepage": "http://www.reactphysics3d.com",
-            "id": 10272113,
-            "language": "C++",
-            "license": "Zlib",
-            "last_commit": "2025-03-28T06:33:07Z",
-            "open_issues": 93,
-            "owner": "DanielChappuis",
-            "repo": "reactphysics3d",
-            "stars": 1775,
-            "topics": [
-              "animation",
-              "collision",
-              "collision-detection",
-              "game-development",
-              "physics-engine",
-              "reactphysics3d",
-              "simulation"
-            ]
-          },
-          "first_seen": "2026-08-28T20:49:26.233Z"
-        },
-        {
-          "node_type": "item",
           "title": "🟢 Parry",
           "description": "Rust collision detection and geometric query library from Dimforge. ⭐ 879",
           "children": [],
@@ -201,10 +201,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-06T07:44:18Z",
-            "open_issues": 74,
+            "open_issues": 78,
             "owner": "dimforge",
             "repo": "parry",
-            "stars": 892,
+            "stars": 891,
             "topics": [
               "collision-detection",
               "gamedev",
@@ -229,7 +229,7 @@
             "open_issues": 58,
             "owner": "coal-library",
             "repo": "coal",
-            "stars": 668,
+            "stars": 669,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:26.233Z"
@@ -582,10 +582,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-10-29T17:01:51Z",
-            "open_issues": 168,
+            "open_issues": 169,
             "owner": "libigl",
             "repo": "libigl",
-            "stars": 5130,
+            "stars": 5131,
             "topics": [
               "geometry-processing"
             ]
@@ -608,7 +608,7 @@
             "open_issues": 32,
             "owner": "SarahWeiii",
             "repo": "CoACD",
-            "stars": 1218,
+            "stars": 1219,
             "topics": [
               "collision",
               "convex",
@@ -711,7 +711,7 @@
                 "open_issues": 58,
                 "owner": "coal-library",
                 "repo": "coal",
-                "stars": 668,
+                "stars": 669,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:26.233Z"
@@ -732,7 +732,7 @@
                 "open_issues": 58,
                 "owner": "coal-library",
                 "repo": "coal",
-                "stars": 668,
+                "stars": 669,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:26.233Z"
@@ -760,7 +760,7 @@
                 "open_issues": 58,
                 "owner": "coal-library",
                 "repo": "coal",
-                "stars": 668,
+                "stars": 669,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:26.233Z"
@@ -784,11 +784,11 @@
                 "id": 24677392,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-20T17:23:42Z",
-                "open_issues": 706,
+                "last_commit": "2026-11-21T16:18:39Z",
+                "open_issues": 705,
                 "owner": "CGAL",
                 "repo": "cgal",
-                "stars": 6133,
+                "stars": 6134,
                 "topics": [
                   "algorithms",
                   "arrange",
@@ -855,7 +855,7 @@
                 "open_issues": 32,
                 "owner": "SarahWeiii",
                 "repo": "CoACD",
-                "stars": 1218,
+                "stars": 1219,
                 "topics": [
                   "collision",
                   "convex",
@@ -1143,7 +1143,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T17:44:56.110Z",
+    "last_updated": "2026-11-21T16:44:33.733Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome collision detection libraries and resources",
